@@ -10,6 +10,8 @@ A contact workbench for Luke Nathan Hayes / Aura of Intelligence: discover route
 
 The starting catalogue contains six connected projects, 16 public discovery routes and 257 reference places derived from Unicode CLDR. A directory lead is not an established relationship. Countries, territories, Indigenous nations and self-described communities need distinct records; the country and territory index does not claim cultural representation. Confirmed contact totals begin at zero.
 
+![Worldwide Contact System website](docs/outreach-cms-live-1793455196993.jpg)
+
 ## Everyday use
 
 1. Search **Find routes** by theme and scope; check a local organisation's own information.
@@ -23,7 +25,7 @@ The invitation tool can copy or download a draft and open your email app. Messag
 
 `Publish website` fetches only the five documented public CMS tabs, validates their columns and values, runs publication checks, builds static HTML and deploys through GitHub Pages. It runs on a push to `main`, manually, and every six hours. GitHub may delay scheduled jobs.
 
-`Check changes` validates pull requests using the checked-in public snapshot. `Review source links` produces a weekly link report in its Actions summary; an access restriction is reported separately from a missing URL.
+`Check proposed changes` validates pull requests using the checked-in public snapshot. `Review source links` produces a weekly link report in its Actions summary; an access restriction is reported separately from a missing URL.
 
 The public editorial workbook contains no private CRM records. Its planned Viewer-by-link sharing is awaiting owner approval; until enabled, the deployed website uses the labelled source snapshot. `pending_spreadsheet_id` records the prepared workbook in `cms.config.json`; move that value into `spreadsheet_id` after sharing is approved and verified. Its `publish` column controls inclusion in the website, not visibility inside that workbook. The private workbook remains restricted and is never a publishing input.
 
