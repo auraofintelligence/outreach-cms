@@ -1,0 +1,2873 @@
+{
+  "settings": {
+    "title": "Worldwide Contact System",
+    "strapline": "Connect people and practical work across places and cultures.",
+    "contact_email": "auraofintelligence@gmail.com"
+  },
+  "pages": [
+    {
+      "id": "index",
+      "heading": "Find a route into every place.",
+      "body": "A contact workbench for GAJRA Earth, P4A and the Web3 Sensorium. Explore existing networks, connect useful work to local needs and prepare a relevant introduction.",
+      "publish": "Yes"
+    },
+    {
+      "id": "routes",
+      "heading": "Start with an existing connection.",
+      "body": "Find public directories and organisations that can open a conversation. Check the local organisation and choose the appropriate contact route.",
+      "publish": "Yes"
+    },
+    {
+      "id": "places",
+      "heading": "Every place has its own context.",
+      "body": "Explore the country and territory reference list. Record real connections as they develop, while making room for communities that cross borders.",
+      "publish": "Yes"
+    },
+    {
+      "id": "projects",
+      "heading": "Useful work gives an invitation substance.",
+      "body": "Approach people through a subject that matters locally. These connected projects offer several ways to begin.",
+      "publish": "Yes"
+    },
+    {
+      "id": "invite",
+      "heading": "Prepare a relevant introduction.",
+      "body": "Choose the place, project and request. Make the wording your own, then decide how to share it.",
+      "publish": "Yes"
+    },
+    {
+      "id": "playbook",
+      "heading": "Make contact. Keep the next step clear.",
+      "body": "A repeatable way to find appropriate people, make a useful approach and turn replies into direct relationships.",
+      "publish": "Yes"
+    },
+    {
+      "id": "workspace",
+      "heading": "Keep the working records together.",
+      "body": "Edit public website content in the CMS. Keep personal contacts, correspondence and outreach decisions in the private workspace.",
+      "publish": "Yes"
+    }
+  ],
+  "projects": [
+    {
+      "id": "your-relevance",
+      "title": "Your Relevance in every jurisdiction",
+      "theme": "law",
+      "summary": "Adapt the method of investigating the rules affecting a person's own circumstances to the sources, jurisdictions and choices relevant in each place.",
+      "url": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/your-relevance.html",
+      "invite": "Discuss a locally grounded adaptation of Your Relevance, or introduce people interested in legal understanding and informed civic participation.",
+      "publish": "Yes"
+    },
+    {
+      "id": "disaster-resilience",
+      "title": "Aura Disaster Resilience",
+      "theme": "resilience",
+      "summary": "Connect everyday community capability with location-specific preparedness, communications, practical learning and continuing recovery.",
+      "url": "https://auraofintelligence.github.io/aura-disaster-resilience/",
+      "invite": "Discuss local hazards, community knowledge and practical preparedness or recovery work, and identify interested local contributors.",
+      "publish": "Yes"
+    },
+    {
+      "id": "missing-middle",
+      "title": "Installing the Missing Middle",
+      "theme": "technology",
+      "summary": "Develop community-scale computing with useful heat, resilient power, workforce learning and a pathway to local ownership. Personal and community data authority remains part of the design.",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/",
+      "invite": "Explore a place-specific conversation about community computing, locally useful workloads, installation capability and data authority.",
+      "publish": "Yes"
+    },
+    {
+      "id": "unga81",
+      "title": "A fair go in the age of intelligence",
+      "theme": "cooperation",
+      "summary": "Luke's UNGA81 contribution invites locally shaped cooperation around Joyful Responsible Abundance, meaningful choices and useful capability shared between places.",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "invite": "Circulate the invitation or discuss how locally rooted associations could cooperate across countries and cultures while retaining their own judgment.",
+      "publish": "Yes"
+    },
+    {
+      "id": "gajra-earth",
+      "title": "GAJRA Earth Infinity",
+      "theme": "culture",
+      "summary": "A public presentation of Joyful Responsible Abundance as living practice, with local interpretation, reflection, contribution and connections across cultures.",
+      "url": "https://auraofintelligence.github.io/GAJRA-earth-infinity/",
+      "invite": "Connect with Luke about locally meaningful participation, language and cultural perspectives, or practical work that people choose to develop together.",
+      "publish": "Yes"
+    },
+    {
+      "id": "p4a-cinema",
+      "title": "P4A civic cinema",
+      "theme": "civic",
+      "summary": "Explore civic participation through places, everyday issues and connected proposals, alongside the related Oceania Cinema and Native Nations Cinema projects.",
+      "url": "https://p4a.xyz/",
+      "invite": "Discuss relevant local civic or cultural questions, suggest a source, or introduce interested residents and community organisations.",
+      "publish": "Yes"
+    }
+  ],
+  "sources": [
+    {
+      "id": "gjn",
+      "name": "Grassroots Justice Network",
+      "theme": "law",
+      "scope": "International",
+      "summary": "An organisation directory for discovering legal empowerment groups. Listings are crowdsourced and require verification.",
+      "url": "https://grassrootsjusticenetwork.org/connect/organizations/",
+      "contact_route": "Use the organisation listing to identify its own public website or appropriate organisational enquiry route. Do not harvest member personal details.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "gndr",
+      "name": "GNDR",
+      "theme": "resilience",
+      "scope": "International",
+      "summary": "A directory of civil society organisations working on disaster reduction and community resilience, with routes to national focal points.",
+      "url": "https://www.gndr.org/network/find-a-member/",
+      "contact_route": "Find an organisation or national focal point, verify its current public contact route, then enquire about an introduction or appropriate circulation.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "apc",
+      "name": "Association for Progressive Communications",
+      "theme": "technology",
+      "scope": "International",
+      "summary": "A network of organisations working on community technology, communications, digital rights and local capability.",
+      "url": "https://www.apc.org/en/about-apc",
+      "contact_route": "Follow the Members route from APC's own site and approach a relevant organisation through its published contact channel.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "isoc",
+      "name": "Internet Society chapters",
+      "theme": "technology",
+      "scope": "International",
+      "summary": "A chapter directory with public websites and contact emails for local Internet-related work.",
+      "url": "https://www.internetsociety.org/chapters/",
+      "contact_route": "Choose the relevant chapter, check its website and published organisational contact, and ask about community technology connections.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "aipp",
+      "name": "Asia Indigenous Peoples Pact",
+      "theme": "culture",
+      "scope": "Asia",
+      "summary": "A regional network of Indigenous peoples' organisations. Its own public site provides a route to the regional organisation.",
+      "url": "https://aippnet.org/",
+      "contact_route": "Ask the regional organisation or an identified member's own public contact how to make a relevant invitation available.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "ipacc",
+      "name": "Indigenous Peoples of Africa Co-ordinating Committee",
+      "theme": "culture",
+      "scope": "Africa",
+      "summary": "An African network of Indigenous peoples' organisations with a public member-organisation map.",
+      "url": "https://www.ipacc.org.za/",
+      "contact_route": "Use the member map or published regional contact to identify an appropriate organisational introduction.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "global-voices",
+      "name": "Global Voices and Rising Voices",
+      "theme": "culture",
+      "scope": "International",
+      "summary": "Public routes into a community of writers, translators and participatory media practitioners, including work with underrepresented language communities.",
+      "url": "https://globalvoices.org/about/",
+      "contact_route": "Follow contributor, Rising Voices or partnership routes and approach the appropriate published organisational contact.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "wikimedia",
+      "name": "Wikimedia affiliates and user groups",
+      "theme": "culture",
+      "scope": "International",
+      "summary": "A directory of geographic, thematic and language-related affiliates, including groups with established contact people.",
+      "url": "https://meta.wikimedia.org/wiki/Wikimedia_Affiliates",
+      "contact_route": "Read the relevant group page and use its stated contact or discussion channel for a suitable introduction.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "uri",
+      "name": "URI Cooperation Circles",
+      "theme": "cooperation",
+      "scope": "International",
+      "summary": "A searchable directory of community-led groups working across cultures, faiths and traditions.",
+      "url": "https://www.uri.org/who-we-are/cooperation-circles",
+      "contact_route": "Search by region, country or subject, read the group's own description, and use its published contact route.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "wfuna",
+      "name": "WFUNA national associations",
+      "theme": "cooperation",
+      "scope": "International",
+      "summary": "A public directory of national United Nations Associations and organisational contact routes.",
+      "url": "https://wfuna.org/una/",
+      "contact_route": "Identify a relevant national association and approach its published office contact about circulation or a conversation.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "rotary",
+      "name": "Rotary and Rotaract clubs",
+      "theme": "community",
+      "scope": "International",
+      "summary": "An entry route to service clubs, local organisers and the connected Rotary and Rotaract networks.",
+      "url": "https://www.rotary.org/get-involved/our-clubs",
+      "contact_route": "Use the club-finding routes and a club's own public contact details to ask about an appropriate introduction or circulation.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "toastmasters",
+      "name": "Toastmasters club finder",
+      "theme": "community",
+      "scope": "International",
+      "summary": "A club finder with routes to message club officers and identify meetings suitable for English communication.",
+      "url": "https://www.toastmasters.org/find-a-club",
+      "contact_route": "Select a relevant open club, confirm its meeting language, and enquire through its listed officer-contact route.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "servas",
+      "name": "Servas groups",
+      "theme": "community",
+      "scope": "International",
+      "summary": "A directory of national and regional Servas group websites and social pages where provided.",
+      "url": "https://servas.org/servas-group-websites",
+      "contact_route": "Use the relevant group's own published contact route to enquire about English-speaking residents and suitable introductions.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "tesol",
+      "name": "TESOL affiliate associations",
+      "theme": "education",
+      "scope": "International",
+      "summary": "An affiliate directory connecting national and regional English-language teaching associations.",
+      "url": "https://www.tesol.org/tesol-global-community/affiliates/find-an-affiliate/",
+      "contact_route": "Follow an association's own website and contact its organising committee about a relevant invitation or introduction.",
+      "checked_on": "2026-10-31",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "iatefl",
+      "name": "IATEFL teaching associations",
+      "theme": "education",
+      "scope": "International",
+      "summary": "An entry route to national and regional teaching associations within IATEFL's associate network.",
+      "url": "https://www.iatefl.org/iatefl-associates/",
+      "contact_route": "Identify the appropriate association, verify its own contact details and ask about a relevant circulation or introduction.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "cooperative-networks",
+      "name": "Co-operative and local trade networks",
+      "theme": "livelihoods",
+      "scope": "International",
+      "summary": "Use the ICA member directory as one research route to co-operative organisations. Find local trade and professional groups separately for the particular place.",
+      "url": "https://www.ica.coop/en/our-members/search-our-members",
+      "contact_route": "Identify a relevant organisation, verify its own public contact and local relevance, and ask about community capability or practical introductions.",
+      "checked_on": "2026-10-31",
+      "status": "Research route",
+      "publish": "Yes"
+    }
+  ],
+  "places": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AX",
+      "name": "Åland Islands",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AG",
+      "name": "Antigua & Barbuda",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AC",
+      "name": "Ascension Island",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia & Herzegovina",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BV",
+      "name": "Bouvet Island",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IC",
+      "name": "Canary Islands",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BQ",
+      "name": "Caribbean Netherlands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "EA",
+      "name": "Ceuta & Melilla",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CP",
+      "name": "Clipperton Island",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CG",
+      "name": "Congo - Brazzaville",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CD",
+      "name": "Congo - Kinshasa",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CI",
+      "name": "Côte d’Ivoire",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DG",
+      "name": "Diego Garcia",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FK",
+      "name": "Falkland Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TF",
+      "name": "French Southern and Antarctic Lands",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HM",
+      "name": "Heard Island & McDonald Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong SAR China",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MO",
+      "name": "Macao SAR China",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar (Burma)",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PS",
+      "name": "Palestinian Territories",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PN",
+      "name": "Pitcairn Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "RE",
+      "name": "Réunion",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé & Príncipe",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CQ",
+      "name": "Sark",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GS",
+      "name": "South Georgia & South Sandwich Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "BL",
+      "name": "St. Barthélemy",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SH",
+      "name": "St. Helena, Ascension & Tristan da Cunha",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "KN",
+      "name": "St. Kitts & Nevis",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "LC",
+      "name": "St. Lucia",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "MF",
+      "name": "St. Martin",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "PM",
+      "name": "St. Pierre & Miquelon",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VC",
+      "name": "St. Vincent & Grenadines",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard & Jan Mayen",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad & Tobago",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TA",
+      "name": "Tristan da Cunha",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "CLDR reference territory code. Inclusion does not assert sovereign status.",
+      "publish": "Yes"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TC",
+      "name": "Turks & Caicos Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "UM",
+      "name": "U.S. Outlying Islands",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VI",
+      "name": "U.S. Virgin Islands",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VA",
+      "name": "Vatican City",
+      "region": "Europe",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "region": "Americas",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "WF",
+      "name": "Wallis & Futuna",
+      "region": "Oceania",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "region": "Asia",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "region": "Africa",
+      "stage": "Seeking contacts",
+      "resident_contacts": 0,
+      "communities": 0,
+      "notes": "",
+      "publish": "Yes"
+    }
+  ]
+}

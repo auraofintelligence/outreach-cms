@@ -1,0 +1,17 @@
+name: Review source links
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 21 * * 0'
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Check public source links
+        env:
+          CMS_SPREADSHEET_ID: ${{ vars.CMS_SPREADSHEET_ID }}
+        run: python3 scripts/check_sources.py
+

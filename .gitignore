@@ -1,0 +1,10 @@
+.site/
+.openai/
+__pycache__/
+*.pyc
+node_modules/
+*.xlsx
+*.log
+tmp/
+private/
+
