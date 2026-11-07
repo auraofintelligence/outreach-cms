@@ -3,3 +3,5 @@
 
 
 .project-rows{display:grid;gap:20px}
+
+.sidebar{overflow-y:auto}

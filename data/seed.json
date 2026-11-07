@@ -158,6 +158,33 @@
       "publish": "Yes"
     },
     {
+      "id": "aura-child-services",
+      "title": "Aura Children & Young People",
+      "theme": "education",
+      "summary": "Explore a proposal for children and young people in Australian care, beginning with chosen interests and supported creative learning. Connect self-understanding, rights, family, culture and mentoring with opportunities for adulthood.",
+      "url": "https://auraofintelligence.github.io/aura-child-services/",
+      "invite": "Discuss supported creative learning, mentoring or a locally relevant introduction for exploring the children and young people's Aura proposal.",
+      "publish": "Yes"
+    },
+    {
+      "id": "aura-whole-of-life",
+      "title": "Aura Whole-of-Life Support",
+      "theme": "community",
+      "summary": "Explore proposed personal-intelligence support for adults living with dementia or disability, people beginning aged care and their supporters. Connect memory, personal context and everyday choices with human-directed support.",
+      "url": "https://auraofintelligence.github.io/aura-whole-of-life/",
+      "invite": "Discuss an everyday support need, a potential research or service partnership, or an introduction to supporters interested in the whole-of-life proposal.",
+      "publish": "Yes"
+    },
+    {
+      "id": "verse-box",
+      "title": "Verse Box",
+      "theme": "technology",
+      "summary": "Explore a proposed portable introduction to Aura of Intelligence: personal Aura building, learning, Community Hours and civic participation using lower-cost equipment.",
+      "url": "https://auraofintelligence.github.io/aura-verse-box/",
+      "invite": "Explore a locally useful public demonstration, a possible host setting or a contribution to personal Aura learning and community participation.",
+      "publish": "Yes"
+    },
+    {
       "id": "unga81",
       "title": "A fair go in the age of intelligence",
       "theme": "cooperation",

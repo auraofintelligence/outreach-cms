@@ -81,6 +81,9 @@ The ICA directory is an additional research route for co-operative organisations
 - **Aura Tourism**: [public project](https://auraofintelligence.github.io/aura-tourism/).
 - **Joyful Responsible Abundance**: [public project](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html).
 - **Mutual Futures**: [public project](https://auraofintelligence.github.io/mutual-futures/).
+- **Aura Children & Young People**: [public project](https://auraofintelligence.github.io/aura-child-services/).
+- **Aura Whole-of-Life Support**: [public project](https://auraofintelligence.github.io/aura-whole-of-life/).
+- **Verse Box**: [public project](https://auraofintelligence.github.io/aura-verse-box/).
 - [Author's open record](https://github.com/auraofintelligence/open-record-luke-nathan-hayes).
 - [P4A Oceania](https://auraofintelligence.github.io/p4a-oceania-cinema/).
 - [P4A Native Nations](https://auraofintelligence.github.io/p4a-native-nations-cinema/).
@@ -136,3 +139,5 @@ authorization of the copyright holder.
 SPDX-License-Identifier: Unicode-3.0
 ```
 
+
+Sidebar project doorways: [Aura of Intelligence](https://auraofintelligence.github.io/) and [Strange But True](https://auraofintelligence.github.io/strange-but-true/).
