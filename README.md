@@ -8,7 +8,7 @@ A contact workbench for Luke Nathan Hayes / Aura of Intelligence: discover route
 - [Editor and setup guide](docs/cms-guide.md)
 - [Reference data, checks and attribution](docs/data-sources.md)
 
-The starting catalogue contains six connected projects, 16 public discovery routes and 257 reference places derived from Unicode CLDR. A directory lead is not an established relationship. Countries, territories, Indigenous nations and self-described communities need distinct records; the country and territory index does not claim cultural representation. Confirmed contact totals begin at zero.
+The starting catalogue contains 13 connected projects, 16 public discovery routes and 257 reference places derived from Unicode CLDR. A directory lead is not an established relationship. Countries, territories, Indigenous nations and self-described communities need distinct records; the country and territory index does not claim cultural representation. Confirmed contact totals begin at zero.
 
 ![Worldwide Contact System website](docs/outreach-cms-live-1793455196993.jpg)
 

@@ -59,12 +59,12 @@
       "publish": "Yes"
     },
     {
-      "id": "disaster-resilience",
-      "title": "Aura Disaster Resilience",
-      "theme": "resilience",
-      "summary": "Connect everyday community capability with location-specific preparedness, communications, practical learning and continuing recovery.",
-      "url": "https://auraofintelligence.github.io/aura-disaster-resilience/",
-      "invite": "Discuss local hazards, community knowledge and practical preparedness or recovery work, and identify interested local contributors.",
+      "id": "legal-engine",
+      "title": "Australian Legal Engine",
+      "theme": "law",
+      "summary": "Retrieve and quote provisions from locally indexed Australian legislation, with source addresses and dates. Follow connections between acts and bring the original text into a legal research conversation.",
+      "url": "https://github.com/auraofintelligence/australian-legal-engine",
+      "invite": "Discuss source-grounded legal research, locally held legislation and ways to make relevant provisions easier to find and check.",
       "publish": "Yes"
     },
     {
@@ -77,12 +77,30 @@
       "publish": "Yes"
     },
     {
-      "id": "unga81",
-      "title": "A fair go in the age of intelligence",
-      "theme": "cooperation",
-      "summary": "Luke's UNGA81 contribution invites locally shaped cooperation around Joyful Responsible Abundance, meaningful choices and useful capability shared between places.",
-      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
-      "invite": "Circulate the invitation or discuss how locally rooted associations could cooperate across countries and cultures while retaining their own judgment.",
+      "id": "p4a-cinema",
+      "title": "P4A Australia",
+      "theme": "civic",
+      "summary": "Explore civic participation through local places, everyday issues, public evidence and connected proposals for Australia's future.",
+      "url": "https://p4a.xyz/",
+      "invite": "Discuss relevant local civic or cultural questions, suggest a source, or introduce interested residents and community organisations.",
+      "publish": "Yes"
+    },
+    {
+      "id": "p4a-oceania",
+      "title": "P4A Oceania",
+      "theme": "civic",
+      "summary": "Explore how P4A's civic workbench could translate across Oceania, with local contexts, regional connections and questions shaped by the people who live there.",
+      "url": "https://auraofintelligence.github.io/p4a-oceania-cinema/",
+      "invite": "Introduce interested residents or local organisations to discuss civic participation, regional connections and locally relevant ideas across Oceania.",
+      "publish": "Yes"
+    },
+    {
+      "id": "p4a-native-nations",
+      "title": "P4A Native Nations",
+      "theme": "civic",
+      "summary": "Explore Indigenous nations, treaties, knowledge and data sovereignty, with participation and locally chosen pathways grounded in each nation's own authority.",
+      "url": "https://auraofintelligence.github.io/p4a-native-nations-cinema/",
+      "invite": "Discuss an appropriate introduction or locally chosen contribution, with the relevant Indigenous people determining the scope and sharing of their knowledge.",
       "publish": "Yes"
     },
     {
@@ -95,12 +113,57 @@
       "publish": "Yes"
     },
     {
-      "id": "p4a-cinema",
-      "title": "P4A civic cinema",
-      "theme": "civic",
-      "summary": "Explore civic participation through places, everyday issues and connected proposals, alongside the related Oceania Cinema and Native Nations Cinema projects.",
-      "url": "https://p4a.xyz/",
-      "invite": "Discuss relevant local civic or cultural questions, suggest a source, or introduce interested residents and community organisations.",
+      "id": "gajra-claude",
+      "title": "GAJRA Earth Claude",
+      "theme": "cooperation",
+      "summary": "Explore the Claude-built GAJRA Earth invitation: Joyful Responsible Abundance, human and AI alignment, and questions people can help define across cultures.",
+      "url": "https://auraofintelligence.github.io/gajra-earth-claude-build/",
+      "invite": "Invite a conversation about Joyful Responsible Abundance, public questions and locally meaningful contributions to human and AI alignment.",
+      "publish": "Yes"
+    },
+    {
+      "id": "gajra-community",
+      "title": "GAJRA Earth Community",
+      "theme": "community",
+      "summary": "Find starting points for shared action through GAJRA Earth's public hub: community contributions, events, travel, research and practical work towards Joyful Responsible Abundance.",
+      "url": "https://auraofintelligence.github.io/gajra-earth-public-hub/",
+      "invite": "Introduce a local interest, useful skill or community project and explore how people might contribute and share what they learn.",
+      "publish": "Yes"
+    },
+    {
+      "id": "aura-genesis",
+      "title": "Aura Genesis",
+      "theme": "technology",
+      "summary": "Explore the Aura Genesis Protocol: developing personal intelligence through a digital twin of body and mind, reflective learning and the proposed Genesis process.",
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/",
+      "invite": "Discuss personal intelligence, reflective learning and a locally relevant starting point for exploring the Aura Genesis proposal.",
+      "publish": "Yes"
+    },
+    {
+      "id": "aura-tourism",
+      "title": "Aura Tourism",
+      "theme": "culture",
+      "summary": "Explore personal intelligence through travel, music, sport, culture, nature and reflection, beginning on Minjerribah and connecting with wider tourism and learning opportunities.",
+      "url": "https://auraofintelligence.github.io/aura-tourism/",
+      "invite": "Discuss a tourism or community learning opportunity that connects enjoyable experiences, local knowledge and personal intelligence.",
+      "publish": "Yes"
+    },
+    {
+      "id": "disaster-resilience",
+      "title": "Aura Disaster Resilience",
+      "theme": "resilience",
+      "summary": "Connect everyday community capability with location-specific preparedness, communications, practical learning and continuing recovery.",
+      "url": "https://auraofintelligence.github.io/aura-disaster-resilience/",
+      "invite": "Discuss local hazards, community knowledge and practical preparedness or recovery work, and identify interested local contributors.",
+      "publish": "Yes"
+    },
+    {
+      "id": "unga81",
+      "title": "A fair go in the age of intelligence",
+      "theme": "cooperation",
+      "summary": "Luke's UNGA81 contribution invites locally shaped cooperation around Joyful Responsible Abundance, meaningful choices and useful capability shared between places.",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "invite": "Circulate the invitation or discuss how locally rooted associations could cooperate across countries and cultures while retaining their own judgment.",
       "publish": "Yes"
     }
   ],

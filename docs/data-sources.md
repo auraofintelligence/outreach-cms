@@ -73,10 +73,15 @@ The ICA directory is an additional research route for co-operative organisations
 - **Installing the Missing Middle**: [public project](https://auraofintelligence.github.io/installing-the-missing-middle/).
 - **A fair go in the age of intelligence**: [public project](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/).
 - **GAJRA Earth Infinity**: [public project](https://auraofintelligence.github.io/GAJRA-earth-infinity/).
-- **P4A civic cinema**: [public project](https://p4a.xyz/).
+- **P4A Australia**: [public project](https://p4a.xyz/).
+- **Australian Legal Engine**: [source project](https://github.com/auraofintelligence/australian-legal-engine).
+- **GAJRA Earth Claude**: [public project](https://auraofintelligence.github.io/gajra-earth-claude-build/).
+- **GAJRA Earth Community**: [public hub](https://auraofintelligence.github.io/gajra-earth-public-hub/).
+- **Aura Genesis**: [Genesis Protocol guide](https://auraofintelligence.github.io/aura-genesis-geode-atlas/).
+- **Aura Tourism**: [public project](https://auraofintelligence.github.io/aura-tourism/).
 - [Author's open record](https://github.com/auraofintelligence/open-record-luke-nathan-hayes).
-- [P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/).
-- [P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/).
+- [P4A Oceania](https://auraofintelligence.github.io/p4a-oceania-cinema/).
+- [P4A Native Nations](https://auraofintelligence.github.io/p4a-native-nations-cinema/).
 - [GAJRA Earth original site](https://gajra.earth/) and [public hub](https://auraofintelligence.github.io/gajra-earth-public-hub/) retain their own editions and histories.
 
 The UNGA81 contribution is Luke Nathan Hayes's personal contribution. The public project links do not imply an external organisation's endorsement.

@@ -76,9 +76,29 @@ def workspace(data):
     note='<p class="info-strip">The CMS workbook is prepared. Automatic Sheets refresh awaits public Viewer access; this publication uses the verified source snapshot.</p>' if data['meta']['mode']=='Source snapshot' and c.get('cms_url') else ''
     return f'''{note}<div class="workspace-grid"><article class="workspace-card"><span class="workspace-icon">{icon('book')}</span><p class="eyebrow">PUBLIC EDITORIAL CONTENT</p><h2>The website CMS</h2><p>Edit headings, source routes, projects and approved aggregate place counts. Set a row’s Publish field to Yes when it is ready for the website.</p>{cms}<p class="field-note">Keep personal contact records in the private workbook.</p></article><article class="workspace-card private-card"><span class="workspace-icon">{icon('settings')}</span><p class="eyebrow">PRIVATE OPERATING RECORDS</p><h2>The contact workspace</h2><p>Keep people, correspondence, permissions and next actions together. Google account permissions control access to this workbook.</p>{private}<p class="field-note">The public website build does not read this workbook.</p></article></div><section class="section"><div class="section-head"><div><p class="eyebrow">PUBLISHING AND MAINTENANCE</p><h2>GitHub takes care of the repeatable work.</h2></div>{external(c['repository_url']+'/actions','Open GitHub Actions','text-link')}</div><div class="automation-list"><article><span class="automation-symbol">↻</span><div><h3>Refresh and publish</h3><p>On a code change, manually, or every six hours: build from the connected public CMS or current source snapshot, run checks and publish through GitHub Pages.</p></div>{tag('Every 6 hours')}</article><article><span class="automation-symbol">✓</span><div><h3>Check changes</h3><p>Pull requests check the public schema, publication filtering and the static build before merging.</p></div>{tag('Every pull request')}</article><article><span class="automation-symbol">↗</span><div><h3>Review source links</h3><p>A weekly report checks the public project and directory URLs. Access restrictions remain distinct from broken links.</p></div>{tag('Weekly')}</article></div></section><div class="workspace-bottom"><div><h3>Publication state</h3><p><strong>{e(data['meta']['mode'])}</strong><br>Built {e(data['meta']['built_at'][:16].replace('T',' '))} UTC</p>{external(data['meta']['run_url'],'View publishing run','text-link') if data['meta']['run_url'] else ''}</div><div><h3>Editor and setup guide</h3><p>See the exact sheet columns, deployment steps, publishing controls and recovery instructions.</p>{external(c['repository_url']+'/blob/main/docs/cms-guide.md','Read the CMS guide','text-link')}</div></div>'''
 
+def projects(data):
+    groups = [
+        ('Law and community computing', ['your-relevance', 'legal-engine', 'missing-middle']),
+        ('P4A', ['p4a-cinema', 'p4a-oceania', 'p4a-native-nations']),
+        ('GAJRA Earth', ['gajra-earth', 'gajra-claude', 'gajra-community']),
+        ('Aura', ['aura-genesis', 'aura-tourism', 'disaster-resilience']),
+    ]
+    by_id = {p['id']: p for p in data['projects']}
+    used = set()
+    rows = []
+    for label, ids in groups:
+        items = [by_id[id] for id in ids if id in by_id]
+        used.update(p['id'] for p in items)
+        if items:
+            rows.append(f'<section class="project-grid" aria-label="{e(label)}">'+''.join(project_card(p) for p in items)+'</section>')
+    remaining = [p for p in data['projects'] if p['id'] not in used]
+    if remaining:
+        rows.append('<section class="project-grid" aria-label="Connected cooperation">'+''.join(project_card(p) for p in remaining)+'</section>')
+    return '<div class="project-rows">'+''.join(rows)+'</div>'
+
 def simple_page(key, data):
     if key=='index': return overview(data)
-    content={'routes':routes,'places':places,'projects':lambda x:'<div class="project-grid">'+''.join(project_card(p) for p in x['projects'])+'</div>','invite':invite,'playbook':playbook,'workspace':workspace}[key](data)
+    content={'routes':routes,'places':places,'projects':projects,'invite':invite,'playbook':playbook,'workspace':workspace}[key](data)
     override=next((r for r in data.get('pages',[]) if r['id']==key),None)
     title,lead=(override['heading'],override['body']) if override else LEADS[key]
     return f'<header class="page-heading"><p class="eyebrow">WORLDWIDE CONTACT SYSTEM</p><h1>{e(title)}</h1><p>{e(lead)}</p></header>'+content
