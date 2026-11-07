@@ -79,6 +79,8 @@ The ICA directory is an additional research route for co-operative organisations
 - **GAJRA Earth Community**: [public hub](https://auraofintelligence.github.io/gajra-earth-public-hub/).
 - **Aura Genesis**: [Genesis Protocol guide](https://auraofintelligence.github.io/aura-genesis-geode-atlas/).
 - **Aura Tourism**: [public project](https://auraofintelligence.github.io/aura-tourism/).
+- **Joyful Responsible Abundance**: [public project](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html).
+- **Mutual Futures**: [public project](https://auraofintelligence.github.io/mutual-futures/).
 - [Author's open record](https://github.com/auraofintelligence/open-record-luke-nathan-hayes).
 - [P4A Oceania](https://auraofintelligence.github.io/p4a-oceania-cinema/).
 - [P4A Native Nations](https://auraofintelligence.github.io/p4a-native-nations-cinema/).

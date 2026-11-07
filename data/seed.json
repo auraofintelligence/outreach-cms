@@ -165,6 +165,24 @@
       "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
       "invite": "Circulate the invitation or discuss how locally rooted associations could cooperate across countries and cultures while retaining their own judgment.",
       "publish": "Yes"
+    },
+    {
+      "id": "joyful-responsible-abundance",
+      "title": "Joyful Responsible Abundance",
+      "theme": "cooperation",
+      "summary": "Explore how personal intelligence, community capability, sovereign compute and civic participation connect in a whole-system proposal for Joyful Responsible Abundance, with source papers and tools for considering Australian choices in the age of superintelligence.",
+      "url": "https://auraofintelligence.github.io/joyful-responsible-abundance/index.html",
+      "invite": "Discuss a locally meaningful starting point for Joyful Responsible Abundance, or connect a community interest with the proposal's practical tools and source papers.",
+      "publish": "Yes"
+    },
+    {
+      "id": "mutual-futures",
+      "title": "Mutual Futures",
+      "theme": "livelihoods",
+      "summary": "Explore shared ownership, business succession, learning, care and time through the AI transition. Connect productive technology with local capability, livelihoods and opportunities people can help shape.",
+      "url": "https://auraofintelligence.github.io/mutual-futures/",
+      "invite": "Introduce a business handover, community need, useful skill or shared-ownership idea and explore a practical contribution to Mutual Futures.",
+      "publish": "Yes"
     }
   ],
   "sources": [
