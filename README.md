@@ -8,22 +8,25 @@ A contact workbench for Luke Nathan Hayes / Aura of Intelligence: discover route
 - [Editor and setup guide](docs/cms-guide.md)
 - [Reference data, checks and attribution](docs/data-sources.md)
 
-The starting catalogue contains 18 connected projects, 16 public discovery routes and 257 reference places derived from Unicode CLDR. A directory lead is not an established relationship. Countries, territories, Indigenous nations and self-described communities need distinct records; the country and territory index does not claim cultural representation. Confirmed contact totals begin at zero.
+The starting catalogue contains 18 connected projects, 41 public discovery routes and 257 reference places derived from Unicode CLDR. A directory lead is not an established relationship. Countries, territories, Indigenous nations and self-described communities need distinct records; the country and territory index does not claim cultural representation. Confirmed contact totals begin at zero.
 
-![Connected projects and sidebar links](docs/aura-support-row-1794024669388.jpg)
+[Queensland sister cities and state relationships](https://auraofintelligence.github.io/outreach-cms/sister-cities.html) includes source links, council contacts and evidence status. The five state sister relationships are listed in the June 2026 DPC protocol guide. Nine council records need confirmation; documented links are not all current formal sisters.
+
+![Queensland international links, filtered to Redlands](docs/queensland-sister-links-20261107.jpg)
 
 ## Everyday use
 
-1. Search **Find routes** by theme and scope; check a local organisation's own information.
-2. Choose a place and a project, then prepare an invitation in your browser.
-3. Keep actual contacts, outreach, permissions, communities and next actions in the private workbook.
-4. Edit public sources, projects, headings and approved aggregate counts in the CMS.
+1. Search **Find routes** by project, theme and scope; check a local organisation's own information.
+2. Use **Queensland sister cities** to investigate 83 documented international links across 15 councils and the state, then ask the responsible team about a relevant introduction.
+3. Choose a place and a project, then prepare an invitation in your browser.
+4. Keep actual contacts, outreach, permissions, communities and next actions in the private workbook.
+5. Edit public sources, projects, headings and approved aggregate counts in the CMS.
 
 The invitation tool can copy or download a draft and open your email app. Messages are sent only through the channel you choose. The website and workflows do not send outreach.
 
 ## Publishing
 
-`Publish website` fetches only the five documented public CMS tabs, validates their columns and values, runs publication checks, builds static HTML and deploys through GitHub Pages. It runs on a push to `main`, manually, and every six hours. GitHub may delay scheduled jobs.
+`Publish website` fetches only the six documented public CMS tabs, validates their columns and values, runs publication checks, builds static HTML and deploys through GitHub Pages. It runs on a push to `main`, manually, and every six hours. GitHub may delay scheduled jobs.
 
 `Check proposed changes` validates pull requests using the checked-in public snapshot. `Review source links` produces a weekly link report in its Actions summary; an access restriction is reported separately from a missing URL.
 

@@ -1,0 +1,2085 @@
+{
+  "checked_on": "2026-11-07",
+  "research_status": "Complete: all 15 requested councils researched, with evidence limits and conflicting classifications recorded",
+  "scope_note": "Officially documented international relationships provide routes to ask councils for relevant introductions. A listing does not establish endorsement, guaranteed access to residents, English proficiency or institutional independence. No outreach was sent.",
+  "councils": [
+    {
+      "id": "brisbane",
+      "name": "Brisbane",
+      "council": "Brisbane City Council",
+      "coverage": "Current council list verified",
+      "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+      "contact_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+      "contact_route": {
+        "label": "Council international relations / sister-city enquiries",
+        "description": "International Relations and Multicultural Affairs team: internationalrelations@brisbane.qld.gov.au; +61 7 3403 8888. Ask whether the sister-city program can introduce a relevant community organisation.",
+        "url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+        "email": "internationalrelations@brisbane.qld.gov.au"
+      },
+      "relationships": [
+        {
+          "partner": "Abu Dhabi",
+          "country": "United Arab Emirates (UAE)",
+          "type": "Sister city",
+          "year": 2009,
+          "status": "Listed on current council page",
+          "country_label_as_source": "United Arab Emirates (UAE)",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Auckland",
+          "country": "New Zealand",
+          "type": "Sister city",
+          "year": 1988,
+          "status": "Listed on current council page",
+          "country_label_as_source": "New Zealand",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Chongqing",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2005,
+          "status": "Listed on current council page",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Daejeon",
+          "country": "South Korea",
+          "type": "Sister city",
+          "year": 2002,
+          "status": "Listed on current council page",
+          "notes": "2001 MOU preceded the formal sister-city agreement on 17 June 2002.",
+          "country_label_as_source": "South Korea",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Hyderabad",
+          "country": "India",
+          "type": "Sister city",
+          "year": 2010,
+          "status": "Listed on current council page",
+          "notes": "Tripartite agreement with Ipswich and Brisbane, signed 5 October 2010.",
+          "country_label_as_source": "India",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Kaohsiung",
+          "country": "Taiwan",
+          "type": "Sister city",
+          "year": 1997,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Taiwan",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Kobe",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1985,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Semarang",
+          "country": "Indonesia",
+          "type": "Sister city",
+          "year": 1993,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Indonesia",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Shenzhen",
+          "country": "China",
+          "type": "Sister city",
+          "year": 1992,
+          "status": "Listed on current council page",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+          ],
+          "source_url": "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        }
+      ],
+      "notes": "The council identifies nine sister cities. Use the full internationalrelations email printed in the business-missions contact section; a later section of the page truncates its displayed email.",
+      "source_urls": [
+        "https://www.brisbane.qld.gov.au/business/business-support/international-opportunities"
+      ],
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "id": "gold-coast",
+      "name": "Gold Coast",
+      "council": "City of Gold Coast",
+      "coverage": "Current council list and individual partner pages verified",
+      "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships",
+      "contact_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Sister-city-projects",
+      "contact_route": {
+        "label": "Council international relations / sister-city enquiries",
+        "description": "Office of the Mayor international relations / sister-city projects: mayoralir@goldcoast.qld.gov.au. Ask about a relevant community exchange or introduction.",
+        "url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Sister-city-projects",
+        "email": "mayoralir@goldcoast.qld.gov.au"
+      },
+      "relationships": [
+        {
+          "partner": "Ancient Olympia",
+          "country": "Greece",
+          "type": "Sister city",
+          "year": 2026,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Ancient-Olympia",
+          "notes": "Signed September 2026; reaffirmed on 30 October 2026.",
+          "country_label_as_source": "Greece",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Ancient-Olympia"
+          ],
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Beihai",
+          "country": "China",
+          "type": "Sister city",
+          "year": 1997,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Beihai",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Beihai"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Chengdu",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2019,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Chengdu",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Chengdu"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Dubai",
+          "country": "United Arab Emirates (UAE)",
+          "type": "Sister city",
+          "year": 2001,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Dubai",
+          "country_label_as_source": "United Arab Emirates (UAE)",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Dubai"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Fort Lauderdale",
+          "country": "United States of America",
+          "type": "Sister city",
+          "year": 1980,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Fort-Lauderdale",
+          "country_label_as_source": "United States of America",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Fort-Lauderdale"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Kanagawa Prefecture",
+          "country": "Japan",
+          "type": "Friendship agreement",
+          "year": 1990,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Kanagawa-Prefecture",
+          "notes": "Individual council page specifies the friendship agreement is with 13 municipalities along Sagami Bay.",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Kanagawa-Prefecture"
+          ],
+          "category": "friendship",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Netanya",
+          "country": "Israel",
+          "type": "Sister city",
+          "year": 1987,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Netanya",
+          "country_label_as_source": "Israel",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Netanya"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Noumea",
+          "country": "New Caledonia",
+          "type": "Sister city",
+          "year": 1992,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Noumea",
+          "notes": "Council describes New Caledonia as a French territory.",
+          "country_label_as_source": "New Caledonia",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Noumea"
+          ],
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Tainan",
+          "country": "Taiwan",
+          "type": "Sister city",
+          "year": 1982,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Tainan",
+          "country_label_as_source": "Taiwan",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Tainan"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Taipei",
+          "country": "Taiwan",
+          "type": "Sister city",
+          "year": 1982,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Taipei",
+          "country_label_as_source": "Taiwan",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Taipei"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Takasu",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1995,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Takasu",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Takasu"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Zhuhai",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2012,
+          "status": "Listed on current council page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Zhuhai",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Zhuhai"
+          ],
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Da Nang",
+          "country": "Vietnam",
+          "type": "Memorandum of Understanding to Establish Friendship and Cooperation",
+          "year": 2020,
+          "status": "Listed on current council other-partnerships page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships",
+          "country_label_as_source": "Vietnam",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships"
+          ],
+          "category": "other",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Wuhan",
+          "country": "China",
+          "type": "Letter of Intent for Friendly Relationship",
+          "year": 2015,
+          "status": "Listed on current council other-partnerships page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships"
+          ],
+          "category": "other",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Jining",
+          "country": "China",
+          "type": "Agreement of Friendship & Cooperation",
+          "year": 2014,
+          "status": "Listed on current council other-partnerships page",
+          "source_url": "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships/Other-international-partnerships"
+          ],
+          "category": "other",
+          "notes": "",
+          "confirmation_needed": false
+        }
+      ],
+      "notes": "The specific sister-city page lists 11 sister cities and one friendship agreement after Ancient Olympia was added in 2026. The general international-relations page still says 10; prefer the specific updated list. Three additional partnerships are listed separately and are not counted as sister cities.",
+      "source_urls": [
+        "https://www.goldcoast.qld.gov.au/About-our-city/International-relations/Sister-cities-international-relationships"
+      ],
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "id": "sunshine-coast",
+      "name": "Sunshine Coast",
+      "council": "Sunshine Coast Council",
+      "coverage": "Official indexed list recovered; direct list fetch returned 404. Recent council report corroborates Tatebayashi and Xiamen; other current terms require reconfirmation",
+      "source_url": "https://www.sunshinecoast.qld.gov.au/business/international-relations",
+      "evidence_urls": [
+        "https://www.sunshinecoast.qld.gov.au/business/international-relations/sister-cities",
+        "https://invest.sunshinecoast.qld.gov.au/wp-content/uploads/2025/11/REDS-Annual-Report-2024-25_FINAL.pdf"
+      ],
+      "contact_url": "https://www.sunshinecoast.qld.gov.au/council/contact-council/contact-us",
+      "contact_route": {
+        "label": "Council international relations / sister-city enquiries",
+        "description": "Council enquiries: +61 7 5475 7272 or mail@sunshinecoast.qld.gov.au; request the international relations / economic development team and confirmation of current agreement terms.",
+        "url": "https://www.sunshinecoast.qld.gov.au/council/contact-council/contact-us",
+        "email": "mail@sunshinecoast.qld.gov.au"
+      },
+      "relationships": [
+        {
+          "partner": "Tatebayashi",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1996,
+          "status": "Relationship corroborated in 2024–25 council annual report; latest agreement term not verified",
+          "source_url": "https://invest.sunshinecoast.qld.gov.au/wp-content/uploads/2025/11/REDS-Annual-Report-2024-25_FINAL.pdf",
+          "notes": "Indexed council page gives 9 July 1996 and renewal on 6 October 2017 for four years. The 2024–25 report records a sister-city student exchange, but does not state a new agreement term.",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://invest.sunshinecoast.qld.gov.au/wp-content/uploads/2025/11/REDS-Annual-Report-2024-25_FINAL.pdf"
+          ],
+          "category": "sister",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "March, Fenland District",
+          "country": "England",
+          "type": "Mutual friendship agreement",
+          "year": 1997,
+          "status": "Official indexed council listing; current agreement term needs council confirmation",
+          "source_url": "https://www.sunshinecoast.qld.gov.au/business/international-relations/sister-cities",
+          "notes": "Indexed council page gives 22 September 1997 and a four-year renewal signed on 1 September 2017. Direct fetch returned 404 on the check date.",
+          "country_label_as_source": "England",
+          "source_urls": [
+            "https://www.sunshinecoast.qld.gov.au/business/international-relations/sister-cities"
+          ],
+          "category": "friendship",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "Xiamen",
+          "country": "China",
+          "type": "Mutual friendship agreement",
+          "year": 1999,
+          "status": "Friendship corroborated in 2024–25 council annual report; latest agreement term not verified",
+          "source_url": "https://invest.sunshinecoast.qld.gov.au/wp-content/uploads/2025/11/REDS-Annual-Report-2024-25_FINAL.pdf",
+          "notes": "Indexed council page gives 29 September 1999 and four-year renewal on 14 August 2018; 2024–25 council report records a 25-year Friendship Charter celebration.",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://invest.sunshinecoast.qld.gov.au/wp-content/uploads/2025/11/REDS-Annual-Report-2024-25_FINAL.pdf"
+          ],
+          "category": "friendship",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "Mont Dore",
+          "country": "New Caledonia",
+          "type": "Mutual friendship agreement",
+          "year": 2006,
+          "status": "Official indexed council listing; current status needs council confirmation",
+          "source_url": "https://www.sunshinecoast.qld.gov.au/business/international-relations/sister-cities",
+          "notes": "Direct fetch of the official list returned 404 on the check date.",
+          "country_label_as_source": "New Caledonia",
+          "source_urls": [
+            "https://www.sunshinecoast.qld.gov.au/business/international-relations/sister-cities"
+          ],
+          "category": "friendship",
+          "confirmation_needed": true
+        }
+      ],
+      "notes": "Do not label the old four-year agreement terms as verified current contracts. Council's live international-relations parent page continues to link the unavailable sister-city subpage. The indexed page says one sister city and three friendship agreements.",
+      "source_urls": [
+        "https://www.sunshinecoast.qld.gov.au/business/international-relations"
+      ],
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "id": "logan",
+      "name": "Logan",
+      "council": "Logan City Council",
+      "coverage": "Current council list verified",
+      "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+      "contact_url": "https://www.logan.qld.gov.au/connect-with-us",
+      "contact_route": {
+        "label": "Council international relations / sister-city enquiries",
+        "description": "Council enquiries: council@logan.qld.gov.au; +61 7 3412 3412. Ask for the international relations / sister-cities program coordinator.",
+        "url": "https://www.logan.qld.gov.au/connect-with-us",
+        "email": "council@logan.qld.gov.au"
+      },
+      "relationships": [
+        {
+          "partner": "Hirakata City",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1995,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+          ],
+          "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Shibukawa City",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1996,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+          ],
+          "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Suzhou City",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2009,
+          "status": "Listed on current council page",
+          "notes": "2005 Friendship City Relationship Memorandum preceded sister-city status in 2009.",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+          ],
+          "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Taoyuan City",
+          "country": "Taiwan",
+          "type": "Sister city",
+          "year": 1996,
+          "status": "Listed on current council page",
+          "country_label_as_source": "Taiwan",
+          "source_urls": [
+            "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+          ],
+          "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Cincinnati",
+          "country": "USA",
+          "type": "Economic agreement",
+          "year": 2017,
+          "status": "Listed on current council page",
+          "notes": "Council describes economic cooperation plus educational and cultural exchanges; not a sister-city agreement.",
+          "country_label_as_source": "USA",
+          "source_urls": [
+            "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+          ],
+          "source_url": "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations",
+          "category": "other",
+          "confirmation_needed": false
+        }
+      ],
+      "source_urls": [
+        "https://www.logan.qld.gov.au/about-council/about-the-city-of-logan/international-relations"
+      ],
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "id": "ipswich",
+      "name": "Ipswich",
+      "council": "Ipswich City Council",
+      "coverage": "Current council list verified",
+      "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+      "contact_url": "https://www.ipswich.qld.gov.au/About-Council/Contact-Council",
+      "contact_route": {
+        "label": "Council international relations / sister-city enquiries",
+        "description": "Council enquiries: council@ipswich.qld.gov.au; +61 7 3810 6666. Ask for international relations / sister cities; the partner page also links an inbound delegation request form.",
+        "url": "https://www.ipswich.qld.gov.au/About-Council/Contact-Council",
+        "email": "council@ipswich.qld.gov.au"
+      },
+      "relationships": [
+        {
+          "partner": "Nerima City",
+          "country": "Japan",
+          "type": "Sister city",
+          "year": 1994,
+          "status": "Listed under Current Agreements",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Changde, Hunan Province",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2006,
+          "status": "Listed under Current Agreements",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Hyderabad",
+          "country": "India",
+          "type": "Sister city",
+          "year": 2010,
+          "status": "Listed under Current Agreements",
+          "notes": "Tripartite with Brisbane.",
+          "country_label_as_source": "India",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Wenzhou, Zhejiang Province",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2011,
+          "status": "Listed under Current Agreements",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Pengzhou, Chengdu Province",
+          "country": "China",
+          "type": "Sister city",
+          "year": 2014,
+          "status": "Listed under Current Agreements",
+          "notes": "Partner location copied as council labels it; the council's wording is geographically imprecise.",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Nantou",
+          "country": "Taiwan",
+          "type": "Sister city",
+          "year": 2016,
+          "status": "Listed under Current Agreements",
+          "country_label_as_source": "Taiwan",
+          "source_urls": [
+            "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+          ],
+          "source_url": "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        }
+      ],
+      "notes": "The council mentions further friendship agreements with countries but names no counterpart cities; these unnamed ties are not rendered as city records.",
+      "source_urls": [
+        "https://www.ipswich.qld.gov.au/About-Council/Statistics-and-Facts/Sister-Cities"
+      ],
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "council": "Redland City Council",
+      "place": "Redlands",
+      "checked_on": "2026-11-07",
+      "coverage": "Current official council strategic-partnerships listing verified through search extraction and council-owned Redlands Coast site. Direct council page fetch returned 403.",
+      "source_urls": [
+        "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+        "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+      ],
+      "contact_route": {
+        "label": "Council economic development team",
+        "email": "invest@redland.qld.gov.au",
+        "phone": "(07) 3829 8999",
+        "url": "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+      },
+      "relationships": [
+        {
+          "partner": "Qinhuangdao",
+          "country": "China",
+          "relationship_type": "Sister city",
+          "year": 2018,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+            "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+          ],
+          "notes": "Sister City Agreement signed 26 June 2018. Earlier friendship, intent and MOU stages must not be treated as the signing date.",
+          "type": "Sister city",
+          "country_label_as_source": "China",
+          "source_url": "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Yongin",
+          "country": "South Korea",
+          "relationship_type": "Friendship city",
+          "year": 2008,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+            "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+          ],
+          "notes": "",
+          "type": "Friendship city",
+          "country_label_as_source": "South Korea",
+          "source_url": "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+          "category": "friendship",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Kani City",
+          "country": "Japan",
+          "relationship_type": "Cultural and Educational Cooperation Agreement",
+          "year": 2015,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+            "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+          ],
+          "notes": "Listed under sister/friendship cities, but the specific agreement is cultural and educational cooperation.",
+          "type": "Cultural and Educational Cooperation Agreement",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+          "category": "other",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Wuchuan City, Guangdong Province",
+          "country": "China",
+          "relationship_type": "Memorandum of Understanding",
+          "year": 2015,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+            "https://www.redlandscoast.com.au/Invest/Strategic-partnerships"
+          ],
+          "notes": "MOU establishing cooperation and exchange; do not label as a formal sister city.",
+          "type": "Memorandum of Understanding",
+          "country_label_as_source": "China",
+          "source_url": "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+          "category": "other",
+          "confirmation_needed": false
+        }
+      ],
+      "name": "Redlands",
+      "id": "redlands",
+      "source_url": "https://www.redland.qld.gov.au/Business-and-investment/Strategic-partnerships",
+      "contact_url": "https://www.redlandscoast.com.au/Invest/Strategic-partnerships",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "council": "City of Moreton Bay",
+      "place": "Moreton Bay",
+      "checked_on": "2026-11-07",
+      "coverage": "Sanyo-Onoda current friendship status verified by official 17 November 2025 news and 2024–2028 International Engagement Plan. Additional Shizuoka MOU announcement found from partner council; completed signing not yet independently verified in a post-event council source. Winton is domestic and excluded.",
+      "source_urls": [
+        "https://www.moretonbay.qld.gov.au/News/Media/Brew-tiful-collaboration-delivers-Moreton-Bay-beer-to-toast-Japan",
+        "https://www.moretonbay.qld.gov.au/files/assets/public/v/1/services/business/international-engagement-plan.pdf",
+        "https://www.moretonbay.qld.gov.au/files/assets/public/council/meetings/2022/gm20221102-minutes.pdf"
+      ],
+      "contact_route": {
+        "label": "Council Economic Development / Invest Moreton Bay",
+        "email": "invest@moretonbay.qld.gov.au",
+        "phone": "1800 314 730",
+        "url": "https://www.investmoretonbay.com.au/More-Contact/Contact",
+        "general_email": "council@moretonbay.qld.gov.au",
+        "general_url": "https://www.moretonbay.qld.gov.au/Contact"
+      },
+      "relationships": [
+        {
+          "partner": "Sanyo-Onoda",
+          "country": "Japan",
+          "relationship_type": "Friendship city",
+          "year": 2022,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.moretonbay.qld.gov.au/News/Media/Brew-tiful-collaboration-delivers-Moreton-Bay-beer-to-toast-Japan",
+            "https://www.moretonbay.qld.gov.au/files/assets/public/council/meetings/2022/gm20221102-minutes.pdf",
+            "https://www.moretonbay.qld.gov.au/files/assets/public/council/meetings/2021/gm20210317-suppinfo-1-1.pdf"
+          ],
+          "notes": "Original Redcliffe–Onoda sister relationship began in 1992. Renewed and transitioned to friendship city in August 2022. Current council references call it friendship city.",
+          "type": "Friendship city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.moretonbay.qld.gov.au/News/Media/Brew-tiful-collaboration-delivers-Moreton-Bay-beer-to-toast-Japan",
+          "category": "friendship",
+          "confirmation_needed": false
+        }
+      ],
+      "announced_or_unverified_relationships": [
+        {
+          "partner": "Shizuoka City",
+          "country": "Japan",
+          "relationship_type": "Memorandum of Understanding on inter-city exchange",
+          "year": 2026,
+          "status": "Signing announced by partner council",
+          "source_urls": [
+            "https://www.city.shizuoka.lg.jp/documents/58413/20260424004.pdf"
+          ],
+          "notes": "Shizuoka Council press announcement dated 24 April 2026 schedules signing for 1 May 2026, covering economy, tourism, education, sport and ocean/marine fields. Secondary reporting says signing occurred, but that is outside the council-only evidence scope. Use as announced MOU until post-event primary confirmation; not a sister-city agreement.",
+          "type": "Memorandum of Understanding on inter-city exchange",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.city.shizuoka.lg.jp/documents/58413/20260424004.pdf",
+          "category": "other",
+          "confirmation_needed": false
+        }
+      ],
+      "name": "Moreton Bay",
+      "id": "moreton-bay",
+      "source_url": "https://www.moretonbay.qld.gov.au/News/Media/Brew-tiful-collaboration-delivers-Moreton-Bay-beer-to-toast-Japan",
+      "contact_url": "https://www.investmoretonbay.com.au/More-Contact/Contact"
+    },
+    {
+      "council": "Toowoomba Regional Council",
+      "place": "Toowoomba",
+      "checked_on": "2026-11-07",
+      "coverage": "Current council sister-city page verified; four international partners.",
+      "source_urls": [
+        "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities"
+      ],
+      "contact_route": {
+        "label": "Council general enquiries; request International Connections / sister-city team",
+        "email": "info@tr.qld.gov.au",
+        "phone": "+61 7 4688 6611",
+        "url": "https://www.tr.qld.gov.au/Council/Contact-Council/Contact-us"
+      },
+      "relationships": [
+        {
+          "partner": "Takatsuki",
+          "country": "Japan",
+          "relationship_type": "Sister city",
+          "year": 1991,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities"
+          ],
+          "notes": "Formal agreement established 13 November 1991.",
+          "type": "Sister city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Whanganui",
+          "country": "New Zealand",
+          "relationship_type": "Sister city",
+          "year": 1981,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "New Zealand",
+          "source_url": "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Paju",
+          "country": "South Korea",
+          "relationship_type": "Economic Sister City Agreement",
+          "year": 2002,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities"
+          ],
+          "notes": "Agreement signed October 2002.",
+          "type": "Economic Sister City Agreement",
+          "country_label_as_source": "South Korea",
+          "source_url": "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Yuecheng District, Shaoxing",
+          "country": "China",
+          "relationship_type": "Sister city",
+          "year": 2018,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities"
+          ],
+          "notes": "Formal sister city agreement signed November 2018; earlier MOU signed 28 October 2016.",
+          "type": "Sister city",
+          "country_label_as_source": "China",
+          "source_url": "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        }
+      ],
+      "name": "Toowoomba",
+      "id": "toowoomba",
+      "source_url": "https://www.tr.qld.gov.au/Council/International-connections/Our-sister-cities",
+      "contact_url": "https://www.tr.qld.gov.au/Council/Contact-Council/Contact-us",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "council": "Townsville City Council",
+      "place": "Townsville",
+      "checked_on": "2026-11-07",
+      "coverage": "Current sister-city page verified. Overview calls all six sister cities; Foshan detailed section instead identifies a Friendship City Agreement, preserved here.",
+      "source_urls": [
+        "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+      ],
+      "contact_route": {
+        "label": "Economic Attraction Unit (specified on sister-city page)",
+        "phone": "13 48 10",
+        "url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+        "general_email": "enquiries@townsville.qld.gov.au",
+        "general_url": "https://www.townsville.qld.gov.au/about-council/contact-council"
+      },
+      "relationships": [
+        {
+          "partner": "National Capital District Commission of Port Moresby",
+          "country": "Papua New Guinea",
+          "relationship_type": "Sister city",
+          "year": 1983,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Papua New Guinea",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Shunan",
+          "country": "Japan",
+          "relationship_type": "Sister city",
+          "year": 1990,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Iwaki",
+          "country": "Japan",
+          "relationship_type": "Sister city",
+          "year": 1991,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "Agreement signed August 1991.",
+          "type": "Sister city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Changshu",
+          "country": "China",
+          "relationship_type": "Sister city",
+          "year": 1995,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "China",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Suwon",
+          "country": "Korea",
+          "relationship_type": "Sister city",
+          "year": 1996,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "Source heading uses Korea and body describes Republic of Korea.",
+          "type": "Sister city",
+          "country_label_as_source": "Korea",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Foshan",
+          "country": "China",
+          "relationship_type": "Friendship city",
+          "year": 2006,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.townsville.qld.gov.au/about-townsville/sister-cities"
+          ],
+          "notes": "Detailed source says City Friendship Agreement signed 28 July 2006, although overview includes Foshan among sister cities.",
+          "type": "Friendship city",
+          "country_label_as_source": "China",
+          "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+          "category": "friendship",
+          "confirmation_needed": false
+        }
+      ],
+      "name": "Townsville",
+      "id": "townsville",
+      "source_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+      "contact_url": "https://www.townsville.qld.gov.au/about-townsville/sister-cities",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "council": "Cairns Regional Council",
+      "place": "Cairns",
+      "checked_on": "2026-11-07",
+      "coverage": "Current council sister-city page verified; page updated 10 February 2026. Seven international partners. Dates omitted where current page does not establish signing years.",
+      "source_urls": [
+        "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+      ],
+      "contact_route": {
+        "label": "Council general enquiries; request sister-city introductions",
+        "email": "council@cairns.qld.gov.au",
+        "phone": "1300 69 22 47",
+        "url": "https://www.cairns.qld.gov.au/council/contact-us",
+        "delegation_note": "Sister-city page asks visiting delegations to apply at least one month ahead."
+      },
+      "relationships": [
+        {
+          "partner": "Lae",
+          "country": "Papua New Guinea",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Papua New Guinea",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Minami",
+          "country": "Japan",
+          "relationship_type": "Sister city",
+          "year": 1969,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "Original Hiwasa sister city began in 1969. Hiwasa and Yuki merged into Minami in 2006.",
+          "type": "Sister city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Oyama",
+          "country": "Japan",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Riga",
+          "country": "Latvia",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Latvia",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Scottsdale",
+          "country": "USA",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "USA",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Sidney",
+          "country": "Canada",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "",
+          "type": "Sister city",
+          "country_label_as_source": "Canada",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Zhanjiang",
+          "country": "China",
+          "relationship_type": "Sister city",
+          "year": null,
+          "status": "Listed by council",
+          "source_urls": [
+            "https://www.cairns.qld.gov.au/experience-cairns/sister-cities"
+          ],
+          "notes": "Source describes important links since 2004, not an explicit sister-agreement signing date.",
+          "type": "Sister city",
+          "country_label_as_source": "China",
+          "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        }
+      ],
+      "name": "Cairns",
+      "id": "cairns",
+      "source_url": "https://www.cairns.qld.gov.au/experience-cairns/sister-cities",
+      "contact_url": "https://www.cairns.qld.gov.au/council/contact-us",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "name": "Mackay",
+      "council": "Mackay Regional Council",
+      "coverage_status": "Verified current public council list",
+      "source_url": "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities",
+      "source_ref": "turn52view0",
+      "contact_route": {
+        "name": "Community Development / Sister Cities enquiries",
+        "url": "https://www.mackay.qld.gov.au/Community/Community-support",
+        "fallback_url": "https://www.mackay.qld.gov.au/Council/Contact-us",
+        "fallback_email": "council@mackay.qld.gov.au",
+        "phone": "+61 7 4961 9444",
+        "label": "Community Development / Sister Cities enquiries"
+      },
+      "relationships": [
+        {
+          "partner": "Kailua Kona",
+          "country_or_territory_label": "Hawaii",
+          "type": "Sister city",
+          "year": 1966,
+          "signed_on": "1966-01-04",
+          "status": "Listed by council",
+          "notes": "Council's list uses Hawaii as its location label; the country is the United States of America.",
+          "country": "Hawaii",
+          "country_label_as_source": "Hawaii",
+          "source_urls": [
+            "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities"
+          ],
+          "source_url": "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Matsuura",
+          "country_or_territory_label": "Japan",
+          "type": "Sister city",
+          "year": 1989,
+          "signed_on": "1989-07-22",
+          "status": "Council explicitly describes this as very active",
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities"
+          ],
+          "source_url": "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Honiara",
+          "country_or_territory_label": "Solomon Islands",
+          "type": "Sister city",
+          "year": 1995,
+          "signed_on": "1995-07-05",
+          "status": "Listed by council",
+          "country": "Solomon Islands",
+          "country_label_as_source": "Solomon Islands",
+          "source_urls": [
+            "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities"
+          ],
+          "source_url": "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Yantai",
+          "country_or_territory_label": "China",
+          "type": "Sister Region Agreement",
+          "year": 2012,
+          "signed_on": "2012-11-15",
+          "status": "Listed by council",
+          "notes": "Joint agreement involving Mackay, Isaac and Whitsunday Regional Councils; do not label it solely a city-to-city agreement.",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities"
+          ],
+          "source_url": "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities",
+          "category": "sister-region",
+          "confirmation_needed": false
+        }
+      ],
+      "notes": "The webpage says three relationships but enumerates four. All four are recorded. The community-support page's email spelling differs from older programme PDFs; use its page or verified general enquiries route.",
+      "id": "mackay",
+      "coverage": "Verified current public council list",
+      "source_urls": [
+        "https://www.mackay.qld.gov.au/Council/About-Council/Sister-Cities"
+      ],
+      "contact_url": "https://www.mackay.qld.gov.au/Community/Community-support",
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "name": "Rockhampton",
+      "council": "Rockhampton Regional Council",
+      "coverage_status": "Ibusuki current programme verified; Chinese relationships verified through archived council announcements, with present operational status not established from current council programme page",
+      "source_url": "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City",
+      "source_ref": "turn82view1",
+      "contact_route": {
+        "name": "Council enquiries; request Community/Sister City or Advance Rockhampton referral",
+        "url": "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City",
+        "email": "enquiries@rrc.qld.gov.au",
+        "phone": "+61 7 4932 9000",
+        "label": "Council enquiries; request Community/Sister City or Advance Rockhampton referral"
+      },
+      "relationships": [
+        {
+          "partner": "Ibusuki",
+          "country_or_territory_label": "Japan",
+          "type": "Sister city",
+          "year": 1980,
+          "signed_on": "1980-11-21",
+          "status": "Listed on council's current programme page; 2025 council resolution supports continued engagement",
+          "source_urls": [
+            "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City",
+            "https://www.rockhamptonregion.qld.gov.au/files/assets/public/v/2/council-meetings/council/ordinary-council-25-08-12-minutes.pdf"
+          ],
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Zhenjiang",
+          "country_or_territory_label": "China",
+          "type": "Sister city",
+          "year": 2018,
+          "status": "Formal signing verified in council's January 2019 announcement; current operational status unverified",
+          "source_urls": [
+            "https://www.rockhamptonregion.qld.gov.au/AboutCouncil/News-and-announcements/Latest-News/Rockhampton-embraces-Sister-City-relations-through-key-projects"
+          ],
+          "source_ref": "turn57search2",
+          "notes": "Friendship agreement preceded the sister agreement in 2016. Council announcements disagree about month of 2018 signing, so retain year only.",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_url": "https://www.rockhamptonregion.qld.gov.au/AboutCouncil/News-and-announcements/Latest-News/Rockhampton-embraces-Sister-City-relations-through-key-projects",
+          "category": "sister",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "Huizhou",
+          "country_or_territory_label": "China",
+          "type": "Friendship City Agreement / Memorandum of Understanding",
+          "year": 2018,
+          "status": "Signing verified in council announcement dated 27 November 2018; current operational status unverified",
+          "source_urls": [
+            "https://www.rockhamptonregion.qld.gov.au/AboutCouncil/News-and-announcements/Latest-News/Council-signs-Friendship-City-Agreement-with-China%E2%80%99s-Huizhou-City"
+          ],
+          "source_ref": "turn57search3",
+          "notes": "The announcement hopes for a future sister relationship; it does not establish that an upgrade occurred.",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_url": "https://www.rockhamptonregion.qld.gov.au/AboutCouncil/News-and-announcements/Latest-News/Council-signs-Friendship-City-Agreement-with-China%E2%80%99s-Huizhou-City",
+          "category": "friendship",
+          "confirmation_needed": true
+        }
+      ],
+      "id": "rockhampton",
+      "coverage": "Ibusuki current programme verified; Chinese relationships verified through archived council announcements, with present operational status not established from current council programme page",
+      "source_urls": [
+        "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City"
+      ],
+      "contact_url": "https://www.rockhamptonregion.qld.gov.au/CommunityEvents/Our-Sister-City",
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "name": "Bundaberg",
+      "council": "Bundaberg Regional Council",
+      "coverage_status": "Verified current public council list",
+      "source_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+      "source_ref": "turn84view2",
+      "contact_route": {
+        "name": "Economic Development team",
+        "url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+        "phone": "1300 883 699",
+        "fallback_url": "https://www.bundaberg.qld.gov.au/Council/Contact-us/Contact-details",
+        "fallback_email": "ceo@bundaberg.qld.gov.au",
+        "label": "Economic Development team"
+      },
+      "relationships": [
+        {
+          "partner": "Nanning",
+          "country_or_territory_label": "China",
+          "type": "Sister city",
+          "year": 1998,
+          "signed_on": "1998-05-12",
+          "status": "Listed by council",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities"
+          ],
+          "source_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Settsu",
+          "country_or_territory_label": "Japan",
+          "type": "Sister city",
+          "year": 1998,
+          "signed_on": "1998-11-09",
+          "status": "Listed by council",
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities"
+          ],
+          "source_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Luganville",
+          "country_or_territory_label": "Vanuatu",
+          "type": "Sister city (Memorandum of Understanding)",
+          "year": 2021,
+          "signed_on": "2021-07-28",
+          "status": "Listed by council",
+          "notes": "Council explicitly calls Luganville one of its three sister cities, with the MOU as its instrument.",
+          "country": "Vanuatu",
+          "country_label_as_source": "Vanuatu",
+          "source_urls": [
+            "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities"
+          ],
+          "source_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Qinzhou",
+          "country_or_territory_label": "China",
+          "type": "Friendly Cooperation City Relationship",
+          "year": 2014,
+          "signed_on": "2014-09-16",
+          "status": "Listed by council",
+          "notes": "Listed separately from the three sister cities.",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities"
+          ],
+          "source_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+          "category": "friendship",
+          "confirmation_needed": false
+        }
+      ],
+      "id": "bundaberg",
+      "coverage": "Verified current public council list",
+      "source_urls": [
+        "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities"
+      ],
+      "contact_url": "https://www.bundaberg.qld.gov.au/Council/About-us/Sister-cities",
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "name": "Fraser Coast",
+      "council": "Fraser Coast Regional Council",
+      "coverage_status": "Verified current programme list; classification and date conflicts require council clarification",
+      "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+      "source_ref": "turn52view1",
+      "historical_policy_url": "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy",
+      "contact_route": {
+        "name": "Council enquiries; request Sister Cities programme officer",
+        "url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+        "email": "enquiry@frasercoast.qld.gov.au",
+        "phone": "1300 79 49 29",
+        "label": "Council enquiries; request Sister Cities programme officer"
+      },
+      "relationships": [
+        {
+          "partner": "Leshan",
+          "country_or_territory_label": "China",
+          "type": "Sister city",
+          "year": null,
+          "status": "Included in current active programme list",
+          "notes": "Date omitted: policy gives 1997 while other historical accounts use 1999.",
+          "country": "China",
+          "country_label_as_source": "China",
+          "source_urls": [
+            "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+            "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+          ],
+          "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Kasukabe",
+          "country_or_territory_label": "Japan",
+          "type": "Sister city",
+          "year": 2014,
+          "status": "Included in current active programme list",
+          "notes": "Policy explicitly records a formal sister agreement signed September 2014.",
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+            "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+          ],
+          "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+          "category": "sister",
+          "confirmation_needed": false
+        },
+        {
+          "partner": "Otsuki",
+          "country_or_territory_label": "Japan",
+          "type": "Friendship city in council policy; current webpage groups it under Sister Cities",
+          "year": null,
+          "status": "Included in current active programme list; formal classification needs clarification",
+          "notes": "Policy's heading says since 1998 but narrative dates Friendship City Agreement to 1994; do not select a year.",
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+            "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+          ],
+          "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+          "category": "friendship",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "Honiara",
+          "country_or_territory_label": "Solomon Islands",
+          "source_country_spelling": "Soloman Islands",
+          "type": "Friendship city / Statement of Partnership and Friendship in council policy; current webpage groups it under Sister Cities",
+          "year": 2005,
+          "signed_on": "2005-09-28",
+          "status": "Included in current active programme list; formal classification needs clarification",
+          "country": "Solomon Islands",
+          "country_label_as_source": "Soloman Islands",
+          "source_urls": [
+            "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+            "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+          ],
+          "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+          "category": "friendship",
+          "notes": "",
+          "confirmation_needed": true
+        },
+        {
+          "partner": "Tome (formerly Nakada)",
+          "country_or_territory_label": "Japan",
+          "type": "Programme relationship; formal agreement not verified",
+          "year": null,
+          "status": "Included in current active programme list; formal classification needs clarification",
+          "notes": "Older policy says no formal agreement was entered into with Nakada.",
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_urls": [
+            "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+            "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+          ],
+          "source_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+          "category": "other",
+          "confirmation_needed": true
+        }
+      ],
+      "notes": "Current webpage says five active Sister City relationships. Older published policy explicitly distinguishes sister and friendship links. Keep both sources visible; avoid silently upgrading the latter relationships.",
+      "id": "fraser-coast",
+      "coverage": "Verified current programme list; classification and date conflicts require council clarification",
+      "source_urls": [
+        "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+        "https://www.frasercoast.qld.gov.au/downloads/file/786/sister-city-friendship-city-management-council-policy"
+      ],
+      "contact_url": "https://www.frasercoast.qld.gov.au/Community/Community-Support/Sister-Cities-Program",
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    },
+    {
+      "name": "Gladstone",
+      "council": "Gladstone Regional Council",
+      "coverage_status": "Verified current council programme",
+      "source_url": "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program",
+      "source_ref": "turn57view1",
+      "contact_route": {
+        "name": "Gladstone Saiki Sister City Advisory Committee / Community Development",
+        "url": "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program",
+        "email": "communitydevelopment@gladstone.qld.gov.au",
+        "fallback_email": "info@gladstone.qld.gov.au",
+        "phone": "+61 7 4976 6300",
+        "label": "Gladstone Saiki Sister City Advisory Committee / Community Development"
+      },
+      "relationships": [
+        {
+          "partner": "Saiki City",
+          "country_or_territory_label": "Japan",
+          "type": "Sister city",
+          "year": 1996,
+          "status": "Current programme and 2026 committee recruitment verified",
+          "source_urls": [
+            "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program",
+            "https://www.gladstone.qld.gov.au/Council/Communications-and-Resources/Latest-news/EOI-Saiki-committee-2027"
+          ],
+          "country": "Japan",
+          "country_label_as_source": "Japan",
+          "source_url": "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program",
+          "category": "sister",
+          "notes": "",
+          "confirmation_needed": false
+        }
+      ],
+      "id": "gladstone",
+      "coverage": "Verified current council programme",
+      "source_urls": [
+        "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program"
+      ],
+      "contact_url": "https://www.gladstone.qld.gov.au/Community/Our-Community/Sister-City-Program",
+      "checked_on": "2026-11-07",
+      "announced_or_unverified_relationships": []
+    }
+  ],
+  "state": {
+    "name": "Queensland",
+    "coverage_status": "Five current sister-state agreements listed in DPC protocol guide, document title last updated 4 June 2026",
+    "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+    "source_ref": "turn82view2",
+    "source_section": "1.9 Sister States, PDF page 29 (zero-based page 28)",
+    "contact_route": {
+      "name": "Department of the Premier and Cabinet, Protocol",
+      "url": "https://www.premiers.qld.gov.au/publications/categories/guides/state-protocols.aspx",
+      "email": "protocol@premiers.qld.gov.au",
+      "phone": "+61 7 3003 9253",
+      "general_url": "https://www.premiers.qld.gov.au/about-us/contact-us.aspx",
+      "general_email": "dpc@premiers.qld.gov.au",
+      "trade_route_url": "https://www.tiq.qld.gov.au/contact/general-enquiry",
+      "notes": "Protocol is a public routing enquiry, not a promise of introductions. TIQ handles trade and investment enquiries.",
+      "label": "Department of the Premier and Cabinet, Protocol"
+    },
+    "relationships": [
+      {
+        "partner": "Municipality of Shanghai",
+        "country_or_territory_label": "People’s Republic of China",
+        "type": "Sister-State Agreement",
+        "year": 1989,
+        "status": "Listed in current DPC guide",
+        "date_source_url": "https://statements.qld.gov.au/statements/98330",
+        "additional_current_source_url": "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "country": "People’s Republic of China",
+        "country_label_as_source": "People’s Republic of China",
+        "source_urls": [
+          "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+          "https://statements.qld.gov.au/statements/98330",
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+          "https://statements.qld.gov.au/statements/73347",
+          "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+          "https://statements.qld.gov.au/statements/98450",
+          "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+          "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+        ],
+        "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": false
+      },
+      {
+        "partner": "Prefecture of Saitama",
+        "country_or_territory_label": "Japan",
+        "type": "Sister-State Agreement",
+        "year": 1984,
+        "status": "Listed in current DPC guide",
+        "date_source_url": "https://statements.qld.gov.au/statements/73347",
+        "additional_current_source_url": "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "notes": "A current Education Queensland student-programme page says 1994; explicit Queensland ministerial and parliamentary records support 1984.",
+        "country": "Japan",
+        "country_label_as_source": "Japan",
+        "source_urls": [
+          "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+          "https://statements.qld.gov.au/statements/98330",
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+          "https://statements.qld.gov.au/statements/73347",
+          "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+          "https://statements.qld.gov.au/statements/98450",
+          "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+          "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+        ],
+        "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "category": "sister-state",
+        "confirmation_needed": false
+      },
+      {
+        "partner": "Province of Central Java",
+        "country_or_territory_label": "the Republic of Indonesia",
+        "type": "Sister-State Agreement",
+        "year": 1991,
+        "status": "Listed in current DPC guide",
+        "date_source_url": "https://statements.qld.gov.au/statements/98450",
+        "country": "the Republic of Indonesia",
+        "country_label_as_source": "the Republic of Indonesia",
+        "source_urls": [
+          "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+          "https://statements.qld.gov.au/statements/98330",
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+          "https://statements.qld.gov.au/statements/73347",
+          "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+          "https://statements.qld.gov.au/statements/98450",
+          "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+          "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+        ],
+        "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": false
+      },
+      {
+        "partner": "Province of Gyeonggi",
+        "country_or_territory_label": "Republic of Korea",
+        "type": "Sister-State Agreement",
+        "year": 1997,
+        "status": "Listed in current DPC guide",
+        "date_source_url": "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "country": "Republic of Korea",
+        "country_label_as_source": "Republic of Korea",
+        "source_urls": [
+          "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+          "https://statements.qld.gov.au/statements/98330",
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+          "https://statements.qld.gov.au/statements/73347",
+          "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+          "https://statements.qld.gov.au/statements/98450",
+          "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+          "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+        ],
+        "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": false
+      },
+      {
+        "partner": "State of South Carolina",
+        "country_or_territory_label": "United States of America",
+        "type": "Sister-State Agreement",
+        "year": 1999,
+        "status": "Listed in current DPC guide",
+        "date_source_url": "https://science.qld.gov.au/industry/collaboration/usa/south-carolina",
+        "country": "United States of America",
+        "country_label_as_source": "United States of America",
+        "source_urls": [
+          "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+          "https://statements.qld.gov.au/statements/98330",
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+          "https://statements.qld.gov.au/statements/73347",
+          "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+          "https://statements.qld.gov.au/statements/98450",
+          "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+          "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+        ],
+        "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": false
+      }
+    ],
+    "other_arrangements": [
+      {
+        "partner": "Guangdong",
+        "country_or_territory_label": "China",
+        "type": "Friendship agreement",
+        "year": 2008,
+        "status": "Officially described as Friendship agreement in 2023; not a sister-state entry in current DPC guide",
+        "source_url": "https://statements.qld.gov.au/statements/98330",
+        "country": "China",
+        "country_label_as_source": "China",
+        "source_urls": [
+          "https://statements.qld.gov.au/statements/98330"
+        ],
+        "category": "friendship",
+        "notes": "",
+        "confirmation_needed": false
+      },
+      {
+        "partner": "Science and Technology Commission of Shanghai Municipality",
+        "country_or_territory_label": "China",
+        "type": "Science Memorandum of Understanding",
+        "year": 2025,
+        "status": "Official science page states renewed November 2025 for three years",
+        "source_url": "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "notes": "Separate science instrument building on the existing sister-state relationship.",
+        "country": "China",
+        "country_label_as_source": "China",
+        "source_urls": [
+          "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission"
+        ],
+        "category": "other",
+        "confirmation_needed": false
+      }
+    ],
+    "historical_current_status_unverified": [
+      {
+        "partner": "Texas",
+        "country_or_territory_label": "United States of America",
+        "type": "Historical Sister-State Agreement / MoU",
+        "year": 2014,
+        "status": "Historical signing verified; not listed in 2026 DPC guide. Current status not established, so not labelled ended.",
+        "source_url": "https://statements.qld.gov.au/statements/74322",
+        "country": "United States of America",
+        "country_label_as_source": "United States of America",
+        "source_urls": [
+          "https://statements.qld.gov.au/statements/74322"
+        ],
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": true
+      },
+      {
+        "partner": "Nevada",
+        "country_or_territory_label": "United States of America",
+        "type": "Historical five-year Sister-State MoU",
+        "year": 2018,
+        "status": "Historical signing verified; current renewal not established and not listed in 2026 DPC guide. Not labelled ended.",
+        "source_url": "https://statements.qld.gov.au/statements/83818",
+        "country": "United States of America",
+        "country_label_as_source": "United States of America",
+        "source_urls": [
+          "https://statements.qld.gov.au/statements/83818"
+        ],
+        "category": "sister-state",
+        "notes": "",
+        "confirmation_needed": true
+      },
+      {
+        "partner": "North Rhine Westphalia",
+        "country_or_territory_label": "Germany",
+        "type": "Historical sister relationship",
+        "year": null,
+        "status": "Listed in 2013 TIQ review; current status not established and not listed in 2026 DPC guide. Not labelled ended.",
+        "source_url": "https://cabinet.qld.gov.au/documents/2013/may/tiq%20review/Attachments/tiq-review-public-release.pdf",
+        "country": "Germany",
+        "country_label_as_source": "Germany",
+        "source_urls": [
+          "https://cabinet.qld.gov.au/documents/2013/may/tiq%20review/Attachments/tiq-review-public-release.pdf"
+        ],
+        "category": "sister",
+        "notes": "",
+        "confirmation_needed": true
+      }
+    ],
+    "source_urls": [
+      "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "https://statements.qld.gov.au/statements/98330",
+      "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+      "https://statements.qld.gov.au/statements/73347",
+      "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+      "https://statements.qld.gov.au/statements/98450",
+      "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+      "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+    ]
+  },
+  "state_relationships": [
+    {
+      "partner": "Municipality of Shanghai",
+      "country_or_territory_label": "People’s Republic of China",
+      "type": "Sister-State Agreement",
+      "year": 1989,
+      "status": "Listed in current DPC guide",
+      "date_source_url": "https://statements.qld.gov.au/statements/98330",
+      "additional_current_source_url": "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+      "country": "People’s Republic of China",
+      "country_label_as_source": "People’s Republic of China",
+      "source_urls": [
+        "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "https://statements.qld.gov.au/statements/98330",
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "https://statements.qld.gov.au/statements/73347",
+        "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "https://statements.qld.gov.au/statements/98450",
+        "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+      ],
+      "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": false
+    },
+    {
+      "partner": "Prefecture of Saitama",
+      "country_or_territory_label": "Japan",
+      "type": "Sister-State Agreement",
+      "year": 1984,
+      "status": "Listed in current DPC guide",
+      "date_source_url": "https://statements.qld.gov.au/statements/73347",
+      "additional_current_source_url": "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+      "notes": "A current Education Queensland student-programme page says 1994; explicit Queensland ministerial and parliamentary records support 1984.",
+      "country": "Japan",
+      "country_label_as_source": "Japan",
+      "source_urls": [
+        "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "https://statements.qld.gov.au/statements/98330",
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "https://statements.qld.gov.au/statements/73347",
+        "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "https://statements.qld.gov.au/statements/98450",
+        "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+      ],
+      "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "category": "sister-state",
+      "confirmation_needed": false
+    },
+    {
+      "partner": "Province of Central Java",
+      "country_or_territory_label": "the Republic of Indonesia",
+      "type": "Sister-State Agreement",
+      "year": 1991,
+      "status": "Listed in current DPC guide",
+      "date_source_url": "https://statements.qld.gov.au/statements/98450",
+      "country": "the Republic of Indonesia",
+      "country_label_as_source": "the Republic of Indonesia",
+      "source_urls": [
+        "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "https://statements.qld.gov.au/statements/98330",
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "https://statements.qld.gov.au/statements/73347",
+        "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "https://statements.qld.gov.au/statements/98450",
+        "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+      ],
+      "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": false
+    },
+    {
+      "partner": "Province of Gyeonggi",
+      "country_or_territory_label": "Republic of Korea",
+      "type": "Sister-State Agreement",
+      "year": 1997,
+      "status": "Listed in current DPC guide",
+      "date_source_url": "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+      "country": "Republic of Korea",
+      "country_label_as_source": "Republic of Korea",
+      "source_urls": [
+        "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "https://statements.qld.gov.au/statements/98330",
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "https://statements.qld.gov.au/statements/73347",
+        "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "https://statements.qld.gov.au/statements/98450",
+        "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+      ],
+      "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": false
+    },
+    {
+      "partner": "State of South Carolina",
+      "country_or_territory_label": "United States of America",
+      "type": "Sister-State Agreement",
+      "year": 1999,
+      "status": "Listed in current DPC guide",
+      "date_source_url": "https://science.qld.gov.au/industry/collaboration/usa/south-carolina",
+      "country": "United States of America",
+      "country_label_as_source": "United States of America",
+      "source_urls": [
+        "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+        "https://statements.qld.gov.au/statements/98330",
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+        "https://statements.qld.gov.au/statements/73347",
+        "https://www.tiq.qld.gov.au/export/market-profiles/japan",
+        "https://statements.qld.gov.au/statements/98450",
+        "https://www.parliament.qld.gov.au/docs/find.aspx?id=5824T0303",
+        "https://science.qld.gov.au/industry/collaboration/usa/south-carolina"
+      ],
+      "source_url": "https://www.premiers.qld.gov.au/publications/categories/guides/assets/att1-forms-of-address-new.pdf",
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": false
+    }
+  ],
+  "state_other_arrangements": [
+    {
+      "partner": "Guangdong",
+      "country_or_territory_label": "China",
+      "type": "Friendship agreement",
+      "year": 2008,
+      "status": "Officially described as Friendship agreement in 2023; not a sister-state entry in current DPC guide",
+      "source_url": "https://statements.qld.gov.au/statements/98330",
+      "country": "China",
+      "country_label_as_source": "China",
+      "source_urls": [
+        "https://statements.qld.gov.au/statements/98330"
+      ],
+      "category": "friendship",
+      "notes": "",
+      "confirmation_needed": false
+    },
+    {
+      "partner": "Science and Technology Commission of Shanghai Municipality",
+      "country_or_territory_label": "China",
+      "type": "Science Memorandum of Understanding",
+      "year": 2025,
+      "status": "Official science page states renewed November 2025 for three years",
+      "source_url": "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission",
+      "notes": "Separate science instrument building on the existing sister-state relationship.",
+      "country": "China",
+      "country_label_as_source": "China",
+      "source_urls": [
+        "https://science.qld.gov.au/industry/collaboration/china/science-tech-commission"
+      ],
+      "category": "other",
+      "confirmation_needed": false
+    }
+  ],
+  "state_historical_current_status_unverified": [
+    {
+      "partner": "Texas",
+      "country_or_territory_label": "United States of America",
+      "type": "Historical Sister-State Agreement / MoU",
+      "year": 2014,
+      "status": "Historical signing verified; not listed in 2026 DPC guide. Current status not established, so not labelled ended.",
+      "source_url": "https://statements.qld.gov.au/statements/74322",
+      "country": "United States of America",
+      "country_label_as_source": "United States of America",
+      "source_urls": [
+        "https://statements.qld.gov.au/statements/74322"
+      ],
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": true
+    },
+    {
+      "partner": "Nevada",
+      "country_or_territory_label": "United States of America",
+      "type": "Historical five-year Sister-State MoU",
+      "year": 2018,
+      "status": "Historical signing verified; current renewal not established and not listed in 2026 DPC guide. Not labelled ended.",
+      "source_url": "https://statements.qld.gov.au/statements/83818",
+      "country": "United States of America",
+      "country_label_as_source": "United States of America",
+      "source_urls": [
+        "https://statements.qld.gov.au/statements/83818"
+      ],
+      "category": "sister-state",
+      "notes": "",
+      "confirmation_needed": true
+    },
+    {
+      "partner": "North Rhine Westphalia",
+      "country_or_territory_label": "Germany",
+      "type": "Historical sister relationship",
+      "year": null,
+      "status": "Listed in 2013 TIQ review; current status not established and not listed in 2026 DPC guide. Not labelled ended.",
+      "source_url": "https://cabinet.qld.gov.au/documents/2013/may/tiq%20review/Attachments/tiq-review-public-release.pdf",
+      "country": "Germany",
+      "country_label_as_source": "Germany",
+      "source_urls": [
+        "https://cabinet.qld.gov.au/documents/2013/may/tiq%20review/Attachments/tiq-review-public-release.pdf"
+      ],
+      "category": "sister",
+      "notes": "",
+      "confirmation_needed": true
+    }
+  ],
+  "pending_councils": [],
+  "suspended_or_ended_relationships": [],
+  "suspension_status_note": "No suspended or ended ties were established from the official sources checked. This is not evidence that every historical agreement remains operational.",
+  "methodology": [
+    "Official council and Queensland Government sources only. A partner council official announcement is included for one separately marked announced MOU.",
+    "Relationship type is taken from the specific agreement description, with contradictory general summaries disclosed. Sister-city, sister-region, friendship, MOU, economic and other arrangements are kept distinct.",
+    "Listed on a current council page describes the available public evidence; councils should confirm present exchange opportunities. Signing years are omitted where not explicit or internally inconsistent.",
+    "An unsuccessful search or omission from a newer list is not treated as proof of non-existence or termination.",
+    "Country/territory wording follows source usage; Mackay labels Kailua Kona as Hawaii. Fraser Coast source misspelling is preserved separately."
+  ],
+  "limitations": [
+    "No evidence of suspension or termination was established for these assigned councils. This is not proof that every historical relationship remains operational.",
+    "Rockhampton's current community programme page covers Ibusuki but does not provide an exhaustive contemporary list of all international economic links; Zhenjiang and Huizhou require confirmation from council before outreach descriptions call them active.",
+    "Fraser Coast's current programme webpage conflicts with older published policy on relationship classifications and dates.",
+    "Country and territory labels follow the cited relationship source; obvious source spelling mistakes are separately identified.",
+    "Sunshine Coast sister-city subpage is still linked and search-indexed but returned 404 on direct checks. The 2024–25 council annual report corroborates Tatebayashi and Xiamen; current agreement terms for all four require confirmation.",
+    "Gold Coast general overview says ten sister cities while the specific 2026 list says eleven after Ancient Olympia joined; use the updated specific list.",
+    "Moreton Bay Shizuoka 2026 MOU is recorded separately as signing announced; a post-event official signing confirmation was not found."
+  ],
+  "counts": {
+    "councils": 15,
+    "city_and_regional_relationship_records": 78,
+    "announced_relationships": 1,
+    "current_state_sister_relationships": 5
+  }
+}

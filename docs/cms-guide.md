@@ -17,16 +17,21 @@ Keep these tab names, column order and header spelling. Do not add private field
 | Site | `key, value` | The keys `title`, `strapline`, `contact_email` only |
 | Pages | `id, heading, body, publish` | Page headings and introductions |
 | Projects | `id, title, theme, summary, url, invite, publish` | Connected work and invitation starting points |
-| Sources | `id, name, theme, scope, summary, url, contact_route, checked_on, status, publish` | Public routes to investigate |
+| Sources | `id, name, theme, scope, summary, url, contact_route, checked_on, status, publish, project_ids` | Public routes to investigate |
+| SisterLinks | `id, level, queensland_place, partner_place, country, relationship, year, source_url, contact_url, contact_route, checked_on, status, notes, publish` | Public council and state international relationships |
 | Places | `code, name, region, stage, resident_contacts, communities, notes, publish` | Reference places and approved aggregate progress |
 
 `publish` is exactly `Yes` or `No`. `No` omits the row from the generated website; it does not make the row private. A missing or invalid flag fails the import. Text is plain text and is escaped for HTML. Source and project links must use HTTPS, without embedded credentials.
 
-Page IDs are `index`, `routes`, `places`, `projects`, `invite`, `playbook`, `workspace`. Omitting a Pages row uses the built-in heading for that page; a Pages row does not create or remove a page. Project and source IDs must remain stable and unique. Place codes are the existing two-letter reference codes.
+Page IDs are `index`, `routes`, `places`, `sister-cities`, `projects`, `invite`, `playbook`, `workspace`. Omitting a Pages row uses the built-in heading for that page; a Pages row does not create or remove a page. Project and source IDs must remain stable and unique. Place codes are the existing two-letter reference codes.
 
-Themes are `law`, `resilience`, `technology`, `cooperation`, `culture`, `civic`, `community`, `education`, `livelihoods`. Region labels are `Africa`, `Americas`, `Asia`, `Europe`, `Oceania`; source scope may also be `International`.
+Themes are `law`, `resilience`, `technology`, `cooperation`, `culture`, `civic`, `community`, `education`, `livelihoods`. Region labels are `Africa`, `Americas`, `Asia`, `Europe`, `Oceania`; source scope may also be `International` or `Australia`.
 
 Source status choices are `Directory checked`, `Research route`, `Needs review`. Use `yyyy-mm-dd` for the checked date. A directory being accessible does not establish a local contact, suitability or independence. Record sourced affiliation and governance context in the private workspace as relevant.
+
+Sources `project_ids` contains space-separated published project IDs. It controls the project filter and each card’s **Find outreach bodies** link. If you unpublish a project, remove its ID from source mappings in the same edit. Suggested matches do not imply the organisation has expressed interest.
+
+SisterLinks uses `City` or `State` for level. Keep the precise official relationship label: a friendship agreement or MOU is not automatically a sister relationship. Enter a four-digit signing year only when explicit in a cited source; otherwise leave it blank. Both `source_url` and `contact_url` require HTTPS. Evidence status is `Listed by source`, `Needs confirmation`, `Historical`, `Suspended` or `Ended`. “Listed by source” describes the available evidence, not a confirmed active exchange. Explain conflicting or dated evidence in `notes`. The page shows public organisational routes only.
 
 Place stages are `Seeking contacts`, `Route identified`, `In conversation`, `Resident connection`. The last stage requires at least one confirmed resident contact. Counts must be nonnegative whole numbers. Review private records and manually enter only approved aggregate counts in Places. No private names or messages are copied automatically.
 
@@ -50,7 +55,7 @@ Use stable contact IDs such as `contact-0001`; the Guide's sample format is not 
 
 Publishing runs on pushes to `main` as well. Scheduled jobs use UTC (`17 */6 * * *`); GitHub scheduling is best effort and may be delayed or disabled after repository inactivity. You can always run the workflow manually.
 
-The weekly source-link report runs at `37 21 * * 0` UTC (Monday 07:37 in Brisbane). It checks URLs and writes an Actions summary. Review the results before changing a source's status. A restricted response does not mean the organisation or contact has disappeared.
+The weekly source-link report runs at `37 21 * * 0` UTC (Monday 07:37 in Brisbane). It checks source, project, sister-link evidence and council/state contact URLs and writes an Actions summary. Review the results before changing a source's status. A restricted response does not mean the organisation or contact has disappeared.
 
 ## Configuration and failure recovery
 

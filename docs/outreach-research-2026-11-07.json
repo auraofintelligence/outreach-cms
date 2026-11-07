@@ -1,0 +1,643 @@
+{
+  "checked_on": "2026-11-07",
+  "method": "Official organisational sources checked for public routes. Suggested fit is a research judgement, not an expression of interest. No outreach sent.",
+  "records": [
+    {
+      "id": "create-foundation",
+      "name": "CREATE Foundation",
+      "theme": "education",
+      "scope": "Australia",
+      "summary": "National peak body for children and young people with out-of-home-care experience, with youth advisory and participation programs.",
+      "fit": "A strong first approach for learning how care-experienced young people could shape supported creative learning, interests and transition-to-adulthood proposals.",
+      "url": "https://create.org.au/who-we-are/get-in-touch/",
+      "contact_route": "Email the published national office at create@create.org.au with a concise organisational partnership enquiry. The contact page explicitly welcomes discussion about partnering; ask which program or state team should review the proposal.",
+      "project_ids": "aura-child-services aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "CREATE describes its role as systemic advocacy rather than casework or individual care decisions. An organisational enquiry does not grant access to young people or imply willingness to trial a product.",
+      "primary_evidence": [
+        {
+          "url": "https://create.org.au/who-we-are/get-in-touch/",
+          "citation_ref": "turn31view0",
+          "supports": "National office email and explicit invitation to discuss partnering."
+        },
+        {
+          "url": "https://create.org.au/who-we-are/about-create/",
+          "citation_ref": "turn37view2",
+          "supports": "Care-experienced youth participation, advisory programs and limits of CREATE's role."
+        }
+      ]
+    },
+    {
+      "id": "snaicc",
+      "name": "SNAICC – National Voice for our Children",
+      "theme": "education",
+      "scope": "Australia",
+      "summary": "Aboriginal and Torres Strait Islander community-controlled peak body for children, young people and families, with early childhood and child-and-family sector work.",
+      "fit": "A route for asking how a children-and-learning proposal could be discussed with appropriate community-controlled organisations and grounded in family, culture and community priorities.",
+      "url": "https://www.snaicc.org.au/contact/",
+      "contact_route": "Use info@snaicc.org.au or the official contact form for a general or sector-related enquiry. Describe the proposal and request direction to the appropriate team or community-controlled route; training@snaicc.org.au is specifically for training enquiries.",
+      "project_ids": "aura-child-services aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "National sector engagement is not permission to represent a particular Aboriginal or Torres Strait Islander nation, share community knowledge or work with local children. Local organisations determine their involvement.",
+      "primary_evidence": [
+        {
+          "url": "https://www.snaicc.org.au/contact/",
+          "citation_ref": "turn35view4",
+          "supports": "Public general, policy and training emails and contact form."
+        },
+        {
+          "url": "https://www.snaicc.org.au/about-snaicc-who-we-are/our-story-history-of-snaicc/",
+          "citation_ref": "turn40view2",
+          "supports": "Community-controlled national role and emphasis on family, culture, Country and community decision-making."
+        }
+      ]
+    },
+    {
+      "id": "fice-international",
+      "name": "FICE International – International Federation of Educative Communities",
+      "theme": "education",
+      "scope": "International",
+      "summary": "International network of national sections, organisations and professionals working with children and young people, including those in out-of-home care.",
+      "fit": "A practical international route for discussing supported creative learning and exchanging care-and-education practice with relevant national sections.",
+      "url": "https://www.ficeinter.net/contact",
+      "contact_route": "Start with the published international secretariat email fice.inter@gmail.com or its organisational contact form. Ask for the relevant national-section introduction; use the official country member list to identify possible follow-up organisations.",
+      "project_ids": "aura-child-services verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "The official country member list is a discovery route, not evidence of worldwide coverage. Individual national contact details and external destinations have not all been revalidated; confirm them through the secretariat before follow-up.",
+      "primary_evidence": [
+        {
+          "url": "https://www.ficeinter.net/contact",
+          "citation_ref": "turn31view2",
+          "supports": "Official international email, form and country contact listing."
+        },
+        {
+          "url": "https://www.ficeinter.net/fice-members",
+          "citation_ref": "turn39view2",
+          "supports": "Public list of national member routes."
+        },
+        {
+          "url": "https://www.ficeinter.net/about",
+          "citation_ref": "turn39view1",
+          "supports": "Out-of-home-care focus and professional exchanges through national sections."
+        }
+      ]
+    },
+    {
+      "id": "alzheimers-disease-international",
+      "name": "Alzheimer's Disease International (ADI)",
+      "theme": "community",
+      "scope": "International",
+      "summary": "Federation of national Alzheimer associations, with a public country-filtered member directory and links to association profiles.",
+      "fit": "An efficient country-by-country discovery route for relevant dementia organisations when exploring personal-context support, accessible demonstrations and local collaboration.",
+      "url": "https://www.alzint.org/our-members/member-associations/",
+      "contact_route": "Select a country in the official member directory, open the association's profile, then check its official organisational contact channel. ADI's own contact page also distinguishes questions about its work from individual support requests.",
+      "project_ids": "aura-whole-of-life aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "Directory membership is not universal country coverage, proof of a local participant or permission to contact people receiving services. Use organisational collaboration channels rather than national support helplines; individual member routes require their own check.",
+      "primary_evidence": [
+        {
+          "url": "https://www.alzint.org/our-members/member-associations/",
+          "citation_ref": "turn35view2",
+          "supports": "Country filter, named member organisations and their association profiles."
+        },
+        {
+          "url": "https://www.alzint.org/about-us/contact-us/",
+          "citation_ref": "turn39view0",
+          "supports": "Separate organisational-work and individual-support contact purposes."
+        },
+        {
+          "url": "https://www.alzint.org/our-members/",
+          "citation_ref": "turn31search1",
+          "supports": "National non-profit association membership and dementia support, advocacy and research roles."
+        }
+      ]
+    },
+    {
+      "id": "dementia-alliance-international",
+      "name": "Dementia Alliance International (DAI)",
+      "theme": "community",
+      "scope": "International",
+      "summary": "An organisation of people with dementia, with international self-advocacy, human-rights work and an organisational contact form.",
+      "fit": "A lived-experience-led route for asking whether and how people with dementia would want to help shape personal-context technology and everyday support proposals.",
+      "url": "https://dementiaallianceinternational.org/contact-us",
+      "contact_route": "Use the official Contact Us form for an organisational collaboration enquiry. Explain the proposed support use and ask about an appropriate way to discuss it; the sponsor/partner page is a separate route for sponsorship interest.",
+      "project_ids": "aura-whole-of-life aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "DAI membership is for people medically diagnosed with dementia or mild cognitive impairment. An external project proposer should use the organisational form rather than join as a member or approach peer-support groups to pitch. International eligibility does not establish participation in every country.",
+      "primary_evidence": [
+        {
+          "url": "https://dementiaallianceinternational.org/contact-us",
+          "citation_ref": "turn35view3",
+          "supports": "Public organisational contact form."
+        },
+        {
+          "url": "https://dementiaallianceinternational.org/get-support/become-a-member",
+          "citation_ref": "turn39view3",
+          "supports": "Organisation of people with dementia; membership eligibility and international availability."
+        },
+        {
+          "url": "https://dementiaallianceinternational.org/get-involved/become-a-sponsor",
+          "citation_ref": "turn37view3",
+          "supports": "Separate sponsorship-interest form."
+        }
+      ]
+    },
+    {
+      "id": "dementia-australia-development",
+      "name": "Dementia Australia – product development and research collaboration",
+      "theme": "community",
+      "scope": "Australia",
+      "summary": "Dedicated channels for discussing technology development, potential co-development, research collaboration and involvement of Dementia Advocates.",
+      "fit": "The clearest specific Australian route for reviewing a dementia-related personal-intelligence proposal and exploring suitable co-design or evaluation.",
+      "url": "https://www.dementia.org.au/about-us/contact-us/product-support",
+      "contact_route": "Use the Product support form for the technology proposal. For a defined research project, use the Research Collaboration Request form or research@dementia.org.au. For lived-experience input, use Work with a Dementia Advocate or advocates@dementia.org.au. These are organisational channels, separate from the support helpline.",
+      "project_ids": "aura-whole-of-life aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "Dementia Australia explicitly excludes product endorsement, third-party product promotion and financial investment. Assistance depends on capacity; fees may apply and advocate participation is voluntary. Its product co-development terms may require ownership of some or all resulting intellectual property. Research recruitment-only requests follow a separate study-listing route.",
+      "primary_evidence": [
+        {
+          "url": "https://www.dementia.org.au/about-us/contact-us/product-support",
+          "citation_ref": "turn35view0",
+          "supports": "Dedicated technology form, possible co-design support and limits including fees, endorsement and intellectual property."
+        },
+        {
+          "url": "https://www.dementia.org.au/research/about-dementia-australia-research-foundation/request-collaborate-dementia-australia",
+          "citation_ref": "turn40view1",
+          "supports": "Research collaboration route, capacity limits and separate recruitment-only process."
+        },
+        {
+          "url": "https://www.dementia.org.au/get-involved/dementia-advocates-program/work-dementia-advocate",
+          "citation_ref": "turn31search11",
+          "supports": "Lived-experience collaboration form and publicly supplied advocates@dementia.org.au address."
+        },
+        {
+          "url": "https://www.dementia.org.au/dementia-australia-research-foundation/about-dementia-australia-research-foundation",
+          "citation_ref": "turn31search6",
+          "supports": "Public research@dementia.org.au address for research partnerships and participant recruitment."
+        }
+      ]
+    },
+    {
+      "id": "pwda-research",
+      "name": "People with Disability Australia (PWDA) – research and consultancy",
+      "theme": "civic",
+      "scope": "Australia",
+      "summary": "Disability-led research and consultancy services, including advisory participation, inclusive research, focus groups and program-development advice.",
+      "fit": "A direct organisational route for disability-led design of support, accessible personal technology, legal-information access and preparedness proposals.",
+      "url": "https://pwd.org.au/services/research-services/",
+      "contact_route": "Email pwd@pwd.org.au, the address explicitly published for research partnerships and consultancy. Specify a research or consultancy enquiry and the advice sought; use this route rather than the individual-advocacy intake form.",
+      "project_ids": "aura-whole-of-life aura-genesis verse-box legal-engine disaster-resilience",
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "Consultancy is fee-for-service. Research expectations include co-creation, contribution recognition, remuneration, accessible materials and the ability to withdraw. PWDA says it will not consider partnership proposals within one month of an application deadline. An enquiry does not secure participants or a partnership.",
+      "primary_evidence": [
+        {
+          "url": "https://pwd.org.au/services/research-services/",
+          "citation_ref": "turn39view4",
+          "supports": "Partnership email, inclusive-research expectations, fees and lead time."
+        },
+        {
+          "url": "https://pwd.org.au/services/consultancy-services/",
+          "citation_ref": "turn39view5",
+          "supports": "Disability-led consultants, available advisory activities and public enquiry email."
+        },
+        {
+          "url": "https://pwd.org.au/resources/emergency-preparedness-for-people-with-disability-alerts-and-information/",
+          "citation_ref": "turn40view4",
+          "supports": "Published disability emergency-preparedness resource, supporting the preparedness project match."
+        }
+      ]
+    },
+    {
+      "id": "arata",
+      "name": "Australian Rehabilitation & Assistive Technology Association (ARATA)",
+      "theme": "technology",
+      "scope": "Australia",
+      "summary": "Assistive-technology association with a public practitioner directory covering expert technology users, allied health professionals, educators, advisers and suppliers.",
+      "fit": "A practical route to relevant technical and accessibility expertise for everyday support, creative-learning access and portable demonstrations across age groups.",
+      "url": "https://www.arata.org.au/find-a-practitioner/",
+      "contact_route": "Search the official practitioner directory by locality, profession and age-group experience to identify relevant professional services. For association-level introductions or an initial project discussion, use office@arata.org.au, published on its Contact Us page.",
+      "project_ids": "aura-whole-of-life aura-child-services aura-genesis verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "The directory concerns professional expertise and services; listings are maintained by members. It is not a list of willing research participants or an endorsement of this project. Individual availability, current details and any professional fees require follow-up.",
+      "primary_evidence": [
+        {
+          "url": "https://www.arata.org.au/find-a-practitioner/",
+          "citation_ref": "turn36view2",
+          "supports": "Public directory, listed roles, locality filters, age groups and member-maintained details."
+        },
+        {
+          "url": "https://www.arata.org.au/about-ARATA/contact-us/",
+          "citation_ref": "turn36view1",
+          "supports": "Published office@arata.org.au address and organisational enquiry route."
+        }
+      ]
+    },
+    {
+      "id": "atsa",
+      "name": "Assistive Technology Suppliers Australia (ATSA)",
+      "theme": "technology",
+      "scope": "Australia",
+      "summary": "Assistive-technology supplier industry body with a public member directory, product categories and community-accessible industry events.",
+      "fit": "Useful for identifying equipment and accessibility providers, or asking about appropriate demonstration and supplier-development settings for Verse Box and support technology.",
+      "url": "https://atsa.org.au/find-an-atsa-organisation/",
+      "contact_route": "Use the member directory to identify relevant businesses, including communication aids, electronic devices and home automation. For an association-level enquiry use info@atsa.org.au or the official Contact ATSA form; ask about the appropriate supplier or event route.",
+      "project_ids": "aura-whole-of-life verse-box",
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "public_route_verified": true,
+      "limitations": "ATSA is an industry and supplier route rather than a substitute for disability-led co-design. Supplier listings do not establish research interest, accessible suitability, funding or product endorsement. Commercial and event participation terms need separate discussion.",
+      "primary_evidence": [
+        {
+          "url": "https://atsa.org.au/find-an-atsa-organisation/",
+          "citation_ref": "turn40view0",
+          "supports": "Public member search, relevant categories and office email."
+        },
+        {
+          "url": "https://atsa.org.au/contact-atsa/",
+          "citation_ref": "turn36view3",
+          "supports": "Official info@atsa.org.au email, enquiry form and directory referral."
+        },
+        {
+          "url": "https://atsa.org.au/",
+          "citation_ref": "turn35search4",
+          "supports": "Supplier-industry role, research and education focus and accessible events."
+        }
+      ]
+    },
+    {
+      "id": "piango-members",
+      "name": "Pacific Islands Association of Non-Governmental Organisations (PIANGO)",
+      "theme": "cooperation",
+      "scope": "Oceania",
+      "summary": "Pacific civil-society umbrella network with an official country-by-country directory of national NGO coordinating bodies. A practical route to locally relevant community organisations for P4A Oceania and GAJRA.",
+      "url": "https://piango.org/our-members",
+      "contact_route": "Choose a relevant National Liaison Unit in the official member directory, follow its organisational website/contact, and request one suitable local introduction or consideration of a short invitation for circulation.",
+      "project_ids": "p4a-oceania gajra-earth gajra-claude gajra-community joyful-responsible-abundance unga81",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://piango.org/our-members",
+        "https://piango.org/about-us"
+      ],
+      "source_refs": [
+        "turn30view0",
+        "turn24search1"
+      ],
+      "primary_source_facts": "PIANGO describes a regional network of national NGO coordinating bodies. Its own directory publishes country entries with organisational emails, telephone numbers and websites.",
+      "fit_rationale": "Inferred fit: national umbrella routes can put a specific local civic or community proposal before organisations already working in the relevant place.",
+      "suggested_first_request": "Would your national network consider this locally adaptable community cooperation invitation, or introduce one appropriate organisation to discuss whether it is useful?",
+      "limitations": "Directory inclusion does not establish present officer details, independence or interest. Confirm the selected organisation's current contact on its own site before sending; no blanket circulation or country coverage is assumed.",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "fit": "Inferred fit: national umbrella routes can put a specific local civic or community proposal before organisations already working in the relevant place."
+    },
+    {
+      "id": "pacific-disability-forum",
+      "name": "Pacific Disability Forum",
+      "theme": "community",
+      "scope": "Oceania",
+      "summary": "Regional disability network offering an official member directory and a public organisational enquiry route. Relevant to accessible participation, whole-of-life tools and visitor experiences.",
+      "url": "https://pacificdisability.org/who-we-are/get-in-touch/",
+      "contact_route": "Use its contact form or published general email infor@pacificdisability.org; ask for the appropriate membership or country-organisation route. Consult the member directory for a specific place.",
+      "project_ids": "p4a-oceania aura-whole-of-life verse-box aura-tourism gajra-community",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://pacificdisability.org/who-we-are/get-in-touch/",
+        "https://pacificdisability.org/members/our-members/",
+        "https://pacificdisability.org/who-we-are/our-team-and-people/"
+      ],
+      "source_refs": [
+        "turn44view0",
+        "turn24search3",
+        "turn24search2"
+      ],
+      "primary_source_facts": "The official contact page publishes infor@pacificdisability.org, telephone numbers and a contact form. The member page distinguishes disabled persons' organisations from associate organisations.",
+      "fit_rationale": "Inferred fit: it offers a relevant route for asking whether accessibility and participant-directed uses of the additional Aura and Verse Box projects merit a local discussion.",
+      "suggested_first_request": "Could your membership team identify one organisation willing to review an accessible, participant-directed learning or visitor-experience proposal and advise on a suitable local contact?",
+      "limitations": "No clinical benefit, endorsement, participant access or English proficiency is established. A regional introduction does not replace the chosen member organisation's decision about involvement.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: it offers a relevant route for asking whether accessibility and participant-directed uses of the additional Aura and Verse Box projects merit a local discussion."
+    },
+    {
+      "id": "local-contexts",
+      "name": "Local Contexts",
+      "theme": "culture",
+      "scope": "International",
+      "summary": "Indigenous cultural and data-governance initiative with public support channels and guidance for community-specific labels, attribution and protocols.",
+      "url": "https://localcontexts.org/support/",
+      "contact_route": "Use the official support form or support@localcontexts.org for a focused enquiry about community-led attribution, permissions and suitable Hub resources.",
+      "project_ids": "p4a-native-nations aura-tourism gajra-community missing-middle",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://localcontexts.org/support/",
+        "https://localcontexts.org/",
+        "https://localcontexts.org/labels/about-the-labels/"
+      ],
+      "source_refs": [
+        "turn44view1",
+        "turn27search4",
+        "turn27search3"
+      ],
+      "primary_source_facts": "Local Contexts provides tools addressing Indigenous cultural authority in collections and data. Its Labels communicate community-specific protocols. The official support page publishes a form and support@localcontexts.org.",
+      "fit_rationale": "Inferred fit: its tools are relevant when Native Nations or tourism pages need community-chosen attribution and control over cultural material.",
+      "suggested_first_request": "Which Local Contexts resources or introductory discussion would help us design community-chosen attribution and cultural-data permissions before inviting contributions?",
+      "limitations": "This is a governance and technical-support route, not authority to represent a nation or permission to reuse knowledge. Decisions and agreements remain with the relevant communities.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: its tools are relevant when Native Nations or tourism pages need community-chosen attribution and control over cultural material."
+    },
+    {
+      "id": "engagement-institute",
+      "name": "Engagement Institute (formerly IAP2 Australasia)",
+      "theme": "civic",
+      "scope": "Oceania",
+      "summary": "Participation-practitioner association with a current public contact route for membership, events and engagement resources. Suitable for feedback on P4A's civic invitation methods.",
+      "url": "https://engagementinstitute.org.au/contact/",
+      "contact_route": "Use the current contact form or info@engagementinstitute.org.au. Request routing to an appropriate practitioner discussion, event or resource contact.",
+      "project_ids": "p4a-cinema p4a-oceania p4a-native-nations gajra-community joyful-responsible-abundance",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://engagementinstitute.org.au/contact/",
+        "https://iap2.org.au/about-us/contact-us/"
+      ],
+      "source_refs": [
+        "turn30view1"
+      ],
+      "primary_source_facts": "The old IAP2 Australasia contact URL redirects to Engagement Institute. The current page publishes info@engagementinstitute.org.au and identifies the legal entity as International Association for Public Participation Australasia Limited trading as Engagement Institute.",
+      "fit_rationale": "Inferred fit: participation practitioners can assess how a specific civic invitation can be locally shaped and presented through suitable professional channels.",
+      "suggested_first_request": "Could an appropriate practitioner group review our short public invitation method and advise whether a local discussion or event contribution would be useful?",
+      "limitations": "A professional association route does not imply political endorsement, access to residents, or approval by Indigenous communities. Use the current brand and contact rather than the old IAP2 address.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: participation practitioners can assess how a specific civic invitation can be locally shaped and presented through suitable professional channels."
+    },
+    {
+      "id": "ecotourism-australia",
+      "name": "Ecotourism Australia",
+      "theme": "livelihoods",
+      "scope": "Australia",
+      "summary": "Sustainable-tourism organisation with an explicit partnership/collaboration enquiry option and a linked guide to certified operators and experiences.",
+      "url": "https://ecotourism.org.au/contact-us/",
+      "contact_route": "Choose 'Partnership or collaboration' in the official enquiry form, or use eco@ecotourism.org.au. Ask which operator or professional channel is appropriate for a concise Aura Tourism proposal.",
+      "project_ids": "aura-tourism gajra-community joyful-responsible-abundance",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://ecotourism.org.au/contact-us/",
+        "https://ecotourism.org.au/"
+      ],
+      "source_refs": [
+        "turn44view2",
+        "turn25search1"
+      ],
+      "primary_source_facts": "The contact form explicitly includes a partnership/collaboration category and publishes eco@ecotourism.org.au. The site links the Green Travel Guide and describes sustainable-tourism programs.",
+      "fit_rationale": "Inferred fit: nature- and culture-based operators are a relevant audience for a locally grounded visitor-learning or community-benefit proposal.",
+      "suggested_first_request": "Would a short Aura Tourism visitor-learning concept be relevant to any of your operator or destination networks, and what is the appropriate route for one exploratory discussion?",
+      "limitations": "An enquiry does not confer certification, endorsement or permission to contact all listed operators. Any pilot, commercial arrangement and cultural content require the relevant parties' agreement.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: nature- and culture-based operators are a relevant audience for a locally grounded visitor-learning or community-benefit proposal."
+    },
+    {
+      "id": "iitoq",
+      "name": "Independent Indigenous Tourism Operators of Queensland (IITOQ)",
+      "theme": "culture",
+      "scope": "Australia",
+      "summary": "Queensland Indigenous tourism operator network whose official contact page explicitly invites partner enquiries and links a member directory.",
+      "url": "https://iitoq.com.au/contact-us/",
+      "contact_route": "Use the official contact form or the published partner route admin@iitoq.com.au; general reception is Reception@iitoq.com.au. Request an interested operator introduction.",
+      "project_ids": "aura-tourism p4a-native-nations gajra-community",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://iitoq.com.au/contact-us/"
+      ],
+      "source_refs": [
+        "turn30view2",
+        "turn25search4"
+      ],
+      "primary_source_facts": "The contact page welcomes potential partners exploring collaboration. It publishes admin@iitoq.com.au for partners and provides navigation to a member directory.",
+      "fit_rationale": "Inferred fit: this is a specific operator-led route for testing whether Aura Tourism or related community interpretation is useful in a Queensland Indigenous tourism setting.",
+      "suggested_first_request": "Could one interested member operator consider whether our digital visitor-learning concept addresses a need they identify, and advise on the appropriate next discussion?",
+      "limitations": "Each operator and relevant community determines cultural access, content and scope. IITOQ contact does not grant broad cultural permission or establish that the proposal is wanted.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: this is a specific operator-led route for testing whether Aura Tourism or related community interpretation is useful in a Queensland Indigenous tourism setting."
+    },
+    {
+      "id": "wftga-area-representatives",
+      "name": "World Federation of Tourist Guide Associations (WFTGA)",
+      "theme": "culture",
+      "scope": "International",
+      "summary": "Tourist-guide association network with an official association directory and regional representatives who offer public contact and referral routes.",
+      "url": "https://wftga.org/about/area-representatives/",
+      "contact_route": "Choose a country or regional representative on the official map and use the published contact buttons. If the region is absent, write to area-reps@wftga.org for routing; consult the full-member association directory.",
+      "project_ids": "aura-tourism gajra-earth gajra-claude gajra-community p4a-oceania",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://wftga.org/about/area-representatives/",
+        "https://wftga.org/members/full-members/"
+      ],
+      "source_refs": [
+        "turn44view3",
+        "turn25search5"
+      ],
+      "primary_source_facts": "WFTGA's Area Representatives page publishes a regional map, direct contact controls and area-reps@wftga.org for unlisted regions. It also describes networking forums and an AI toolkit working group.",
+      "fit_rationale": "Inferred fit: resident guides and guide associations offer a practical route to discussing place-based interpretation, cultural exchange and useful AI tools.",
+      "suggested_first_request": "Could you suggest one association or guide interested in discussing locally authored visitor learning and cultural exchange, and confirm whether an English-language conversation would suit them?",
+      "limitations": "The professional network does not cover every country or culture. Membership does not establish English proficiency or authority to speak for local or Indigenous communities.",
+      "status": "Directory checked",
+      "publish": "Yes",
+      "fit": "Inferred fit: resident guides and guide associations offer a practical route to discussing place-based interpretation, cultural exchange and useful AI tools."
+    },
+    {
+      "id": "alia-digital-literacy",
+      "name": "Australian Library and Information Association — Digital Literacy Group",
+      "theme": "education",
+      "scope": "Australia",
+      "summary": "National library-sector special-interest group discussing digital technology, information verification, user education and AI, with published convenor contact links.",
+      "url": "https://alia.org.au/Web/Web/Groups-and-Committees/SIG/ALIA_Digital-Literacy.aspx",
+      "contact_route": "Use the published co-convenor email links on the official group page, or ask ALIA National Office through its public Contact Us page to route a focused enquiry to the Digital Literacy Group.",
+      "project_ids": "verse-box aura-genesis aura-child-services gajra-community gajra-claude joyful-responsible-abundance",
+      "checked_on": "2026-11-07",
+      "evidence_urls": [
+        "https://alia.org.au/Web/Web/Groups-and-Committees/SIG/ALIA_Digital-Literacy.aspx",
+        "https://www.alia.org.au/Web/Web/About-Us/Contact-Us.aspx",
+        "https://alia.org.au/Web/Web/Sectors/Public.aspx"
+      ],
+      "source_refs": [
+        "turn45view1",
+        "turn45view0",
+        "turn27search6"
+      ],
+      "primary_source_facts": "The official page describes a national cross-sector Digital Literacy Group launched in 2025, lists convenors with email links, and identifies AI and library-user education as discussion topics.",
+      "fit_rationale": "Inferred fit: this provides a precise professional audience for considering a small digital-literacy demonstration involving Verse Box, Aura or GAJRA materials.",
+      "suggested_first_request": "Would a short demonstration brief for a participant-directed AI or creative digital-literacy activity fit a group discussion, or could you suggest an interested library professional?",
+      "limitations": "A professional discussion does not establish a library host, approval to involve children, or access to patrons. Any activity requires the relevant library's own assessment and agreement.",
+      "status": "Research route",
+      "publish": "Yes",
+      "fit": "Inferred fit: this provides a precise professional audience for considering a small digital-literacy demonstration involving Verse Box, Aura or GAJRA materials."
+    },
+    {
+      "id": "employee-ownership-australia",
+      "name": "Employee Ownership Australia",
+      "theme": "livelihoods",
+      "scope": "Australia",
+      "summary": "Employee ownership association that explicitly invites conversations about projects, with co-operative resources and an expert panel.",
+      "url": "https://employeeownership.com.au/contact/",
+      "contact_route": "Use info@employeeownership.com.au or the official contact form. Ask about worker ownership and governance for a Ready SET Co-op or community computing proposal; formal professional advice may be referred to an expert at a negotiated fee.",
+      "project_ids": "mutual-futures missing-middle joyful-responsible-abundance",
+      "fit": "Explore employee ownership and practical governance for community-scale enterprises.",
+      "limitations": "This is an initial project discussion route; professional advice may involve negotiated fees.",
+      "evidence_urls": [
+        "https://employeeownership.com.au/contact/"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "bccm",
+      "name": "Business Council of Co-operatives and Mutuals (BCCM)",
+      "theme": "livelihoods",
+      "scope": "Australia",
+      "summary": "National co-operative and mutual peak body, with a public member directory spanning sectors including care, energy, housing and education.",
+      "url": "https://bccm.coop/about/our-members/",
+      "contact_route": "Browse the member directory to identify a relevant organisation. For a peak-body enquiry, ICA publishes info@bccm.coop as BCCM’s main organisational address. Ask who could discuss community ownership, a Ready SET Co-op or member-led care; a directory listing is not an introduction.",
+      "project_ids": "mutual-futures missing-middle joyful-responsible-abundance aura-whole-of-life",
+      "fit": "Connect community ownership and mutual benefit proposals to relevant co-operatives.",
+      "limitations": "Membership and directory inclusion do not establish interest in this proposal or access to members.",
+      "evidence_urls": [
+        "https://bccm.coop/about/our-members/",
+        "https://ica.coop/en/directory/organisations/business-council-co-operatives-and-mutuals-bccm"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "alta",
+      "name": "Australasian Legal Technology Alliance (ALTA)",
+      "theme": "law",
+      "scope": "Australia",
+      "summary": "Legal technology industry network supporting Australian innovation, with company and advocate participation routes.",
+      "url": "https://alta.law/contact-us/",
+      "contact_route": "Use the official Contact us form with a short legal-information-engine demonstration and a request for a relevant practitioner or event introduction. Ask which participation route fits the project’s stage; current membership terms and any fees need checking.",
+      "project_ids": "legal-engine your-relevance",
+      "fit": "Find legal technology practitioners who can discuss usable jurisdiction-specific information.",
+      "limitations": "An industry enquiry is not legal advice, legal validation or an endorsement.",
+      "evidence_urls": [
+        "https://alta.law/",
+        "https://alta.law/contact-us/",
+        "https://alta.law/plans/advocates-plans/"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "free-access-to-law",
+      "name": "Free Access to Law Movement – member-institute discovery",
+      "theme": "law",
+      "scope": "International",
+      "summary": "Voluntary international association of legal-information institutes and organisations working on public access to law, described by member IALS.",
+      "url": "https://ials.sas.ac.uk/about-institute/leadership-collaboration/free-access-law-movement",
+      "contact_route": "Follow the official IALS page’s WorldLII member/declaration link to identify a jurisdiction’s legal-information institute, then verify that institute’s own organisational contact. Ask about source provenance, reuse conditions and local legal-information practice. IALS is a member, not presented here as the network secretariat.",
+      "project_ids": "your-relevance legal-engine",
+      "fit": "Locate jurisdiction-specific information publishers for source and accessibility discussions.",
+      "limitations": "Individual member contacts have not all been rechecked; data reuse and legal practice conditions remain source-specific.",
+      "evidence_urls": [
+        "https://ials.sas.ac.uk/about-institute/leadership-collaboration/free-access-law-movement"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "social-enterprise-australia",
+      "name": "Social Enterprise Australia",
+      "theme": "livelihoods",
+      "scope": "Australia",
+      "summary": "National social enterprise peak body connecting sector development, collaboration, strategy and member networks.",
+      "url": "https://www.socialenterpriseaustralia.org.au/contact-us",
+      "contact_route": "Use the official contact page or hello@socialenterpriseaustralia.org.au, published on the sector’s Understorey profile and by the Department of Social Services. Ask for the relevant local or sector network to discuss a small community enterprise proposal; funding eligibility is a separate question.",
+      "project_ids": "mutual-futures missing-middle verse-box joyful-responsible-abundance",
+      "fit": "Find suitable enterprise networks for practical community benefit and ownership proposals.",
+      "limitations": "This is a network enquiry, not a claim of funding availability, membership acceptance or project eligibility.",
+      "evidence_urls": [
+        "https://www.socialenterpriseaustralia.org.au/contact-us",
+        "https://understorey.org.au/organisations/social-enterprise-australia",
+        "https://www.dss.gov.au/social-impact-investing/social-enterprise-development-initiative"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Research route",
+      "publish": "Yes"
+    },
+    {
+      "id": "acm-sigchi",
+      "name": "ACM SIGCHI – local and thematic chapters",
+      "theme": "technology",
+      "scope": "International",
+      "summary": "Human–computer interaction chapter directory, with geographic groups and themes including human-centred AI, extended reality and arts in HCI.",
+      "url": "https://sigchi.org/people/chapters/",
+      "contact_route": "Use the city/country directory or relevant thematic chapter’s published contact. Ask about a short demonstration or discussion of accessible personal intelligence and XR. The directory publishes sigchi-vp-chapters@acm.org for chapter matters; check the chosen chapter’s current details before approaching it.",
+      "project_ids": "aura-genesis aura-whole-of-life aura-child-services verse-box gajra-claude legal-engine joyful-responsible-abundance",
+      "fit": "Discuss accessible interaction, XR demonstrations and human-centred AI with relevant practitioners.",
+      "limitations": "Directory availability is not willingness to host a demonstration or involve research participants.",
+      "evidence_urls": [
+        "https://sigchi.org/people/chapters/"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes"
+    },
+    {
+      "id": "ieee-ssit",
+      "name": "IEEE Society on Social Implications of Technology – chapters",
+      "theme": "cooperation",
+      "scope": "International",
+      "summary": "International chapter network concerned with technology’s social effects, with official local-group websites and chapter contact routes.",
+      "url": "https://technologyandsociety.org/member-resources/find-a-local-ssit-group/",
+      "contact_route": "Choose a local chapter website from the official list and verify its current organisational route. The page supplies ssitchaptercommittee@gmail.com for chapter coordination. Ask whether a local discussion of community data authority, responsible AI or shared benefit would fit a chapter activity.",
+      "project_ids": "gajra-claude gajra-community unga81 joyful-responsible-abundance missing-middle p4a-cinema",
+      "fit": "Find local conversations about community technology, responsible AI and cooperation.",
+      "limitations": "The network’s geographic scope does not establish a participant or English-language access in any particular country.",
+      "evidence_urls": [
+        "https://technologyandsociety.org/member-resources/find-a-local-ssit-group/"
+      ],
+      "checked_on": "2026-11-07",
+      "status": "Directory checked",
+      "publish": "Yes"
+    }
+  ],
+  "excluded_or_deferred": [
+    {
+      "name": "XR Access",
+      "reason": "Official hibernation notice says info@xraccess.org is no longer actively monitored from January 2026. Do not publish as an active enquiry route.",
+      "url": "https://xraccess.org/hibernation/"
+    }
+  ]
+}

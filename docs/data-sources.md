@@ -141,3 +141,24 @@ SPDX-License-Identifier: Unicode-3.0
 
 
 Sidebar project doorways: [Aura of Intelligence](https://auraofintelligence.github.io/) and [Strange But True](https://auraofintelligence.github.io/strange-but-true/).
+
+
+## Additional outreach routes — checked 7 November 2026
+
+Added 24 bodies and networks for the connected projects: CREATE, SNAICC, FICE, ADI, DAI, Dementia Australia development, PWDA research, ARATA, ATSA, PIANGO, Pacific Disability Forum, Local Contexts, Engagement Institute, Ecotourism Australia, IITOQ, WFTGA, ALIA Digital Literacy, Employee Ownership Australia, BCCM, ALTA, Free Access to Law member discovery, Social Enterprise Australia, ACM SIGCHI and IEEE SSIT. The directory also links to the Queensland international-relations register, taking the public route total to 41.
+
+Official URLs, published organisational routes, suggested project fit and material limitations are recorded in [the outreach research record](outreach-research-2026-11-07.json). Suggested fit is our research judgement; it is not interest or endorsement from those bodies. Individual member destinations and message delivery have not all been tested. Research did not send outreach, create partnerships or change resident contact totals.
+
+Current checks corrected IAP2 Australasia's trading name to Engagement Institute. XR Access was excluded as an active enquiry because its official hibernation notice says its general mailbox is no longer actively monitored from January 2026. Relevant fees, eligibility and co-development terms remain visible in each body's contact guidance.
+
+## Queensland international links — checked 7 November 2026
+
+The register covers Brisbane, Gold Coast, Sunshine Coast, Logan, Ipswich, Redlands, Moreton Bay, Toowoomba, Townsville, Cairns, Mackay, Rockhampton, Bundaberg, Fraser Coast and Gladstone, plus Queensland state. Its 83 records comprise 78 council-level relationships of several kinds and five sister-state agreements. Every record has official evidence and a responsible council or state contact route. This is a selected Queensland register, not an exhaustive list of every local government relationship.
+
+The [full research record](queensland-international-links-research-2026-11-07.json) retains agreement labels, additional sources, source conflicts, pending announcements and historical state arrangements. Those historical arrangements and the separately announced Shizuoka MOU are not counted in the published 83. No current suspension or termination was established in the checked official sources; that is not proof that every programme is active.
+
+Queensland's June 2026 DPC protocol guide, section 1.9 (PDF page 29), lists Shanghai, Saitama, Central Java, Gyeonggi and South Carolina as sister states. Historical Texas, Nevada and North Rhine Westphalia references remain in the research record with current status unverified.
+
+Nine published council records are labelled Needs confirmation: Sunshine Coast's four links, Rockhampton's Zhenjiang and Huizhou links, and Fraser Coast's Otsuki, Honiara and Tome/Nakada classifications. Sunshine Coast's indexed list returned 404; its recent annual report corroborates Tatebayashi and Xiamen, while latest agreement terms need confirmation. Fraser Coast's current programme and published policy use different classifications. Individual notes explain these limits. Contact the council before treating a dated or conflicting record as an active formal sister agreement.
+
+Other distinctions preserved include Redlands' friendship, cultural/education and MOU agreements; Moreton Bay's Sanyo-Onoda transition to friendship; Townsville's specific Foshan friendship description; and Gold Coast's Ancient Olympia sister agreement announced in September 2026. Country and territory wording follows the evidence with obvious spelling corrections; it is not a statehood claim. English-language access and institutional independence are not inferred from an official relationship.

@@ -14,8 +14,9 @@ FIELDS = {
     "Site": ["key", "value"],
     "Pages": ["id", "heading", "body", "publish"],
     "Projects": ["id", "title", "theme", "summary", "url", "invite", "publish"],
-    "Sources": ["id", "name", "theme", "scope", "summary", "url", "contact_route", "checked_on", "status", "publish"],
+    "Sources": ["id", "name", "theme", "scope", "summary", "url", "contact_route", "checked_on", "status", "publish", "project_ids"],
     "Places": ["code", "name", "region", "stage", "resident_contacts", "communities", "notes", "publish"],
+    "SisterLinks": ["id", "level", "queensland_place", "partner_place", "country", "relationship", "year", "source_url", "contact_url", "contact_route", "checked_on", "status", "notes", "publish"],
 }
 SETTING_KEYS = {"title", "strapline", "contact_email"}
 THEMES = {"law", "resilience", "technology", "cooperation", "culture", "civic", "community", "education", "livelihoods"}
@@ -50,14 +51,15 @@ def rows_from_csv(text, tab):
     return result
 
 def validate(data):
-    if set(data) - {"settings", "projects", "sources", "places", "pages", "meta", "config"}:
+    if set(data) - {"settings", "projects", "sources", "places", "pages", "sister_links", "meta", "config"}:
         raise ValueError("Publication contains an unexpected top-level record set")
     if set(data["settings"]) - SETTING_KEYS:
         raise ValueError("Unexpected setting in the public CMS")
     email = data["settings"].get("contact_email", "")
     if not re.fullmatch(r"[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+", email):
         raise ValueError("A valid published project contact address is required")
-    mapping = {"projects": "Projects", "sources": "Sources", "places": "Places", "pages": "Pages"}
+    project_ids = {r['id'] for r in data.get('projects', [])}
+    mapping = {"projects": "Projects", "sources": "Sources", "places": "Places", "pages": "Pages", "sister_links": "SisterLinks"}
     for collection, tab in mapping.items():
         ids = set()
         for row in data.get(collection, []):
@@ -71,6 +73,21 @@ def validate(data):
                 safe_url(row["url"])
             if "theme" in row and row["theme"] not in THEMES:
                 raise ValueError(f"{tab}: unknown theme")
+            if collection == "sources" and set(row.get("project_ids", "").split()) - project_ids:
+                raise ValueError("Sources: project_ids must refer to published projects")
+            if collection == "sister_links":
+                for field in ["source_url", "contact_url"]:
+                    safe_url(row.get(field, ""))
+                if row.get("level") not in {"City", "State"}:
+                    raise ValueError("SisterLinks: level must be City or State")
+                if row.get("status") not in {"Listed by source", "Needs confirmation", "Historical", "Suspended", "Ended"}:
+                    raise ValueError("SisterLinks: unknown evidence status")
+                if not all(row.get(f, "").strip() for f in ["queensland_place", "partner_place", "country", "relationship", "contact_route"]):
+                    raise ValueError("SisterLinks: a relationship and contact route are required")
+                if row.get("year", "") and not re.fullmatch(r"\d{4}", str(row["year"])):
+                    raise ValueError("SisterLinks: year must be explicit or blank")
+            if collection in {"sources", "sister_links"}:
+                datetime.strptime(row["checked_on"], "%Y-%m-%d")
             if collection == "places":
                 if not re.fullmatch("[A-Z]{2}", row["code"]) or row["region"] not in REGIONS:
                     raise ValueError("Invalid reference place")
@@ -103,17 +120,18 @@ def load_public(offline=False):
             tables[tab] = rows_from_csv(payload.decode("utf-8-sig"), tab)
         data = {"settings": {r["key"]: r["value"] for r in tables["Site"]},
                 "pages": tables["Pages"], "projects": tables["Projects"],
-                "sources": tables["Sources"], "places": tables["Places"]}
+                "sources": tables["Sources"], "places": tables["Places"], "sister_links": tables["SisterLinks"]}
         mode = "Google Sheets"
     else:
         data = json.loads((ROOT / "data/seed.json").read_text())
         data.setdefault("pages", [])
-        for collection in ["projects", "sources", "places", "pages"]:
+        data.setdefault("sister_links", [])
+        for collection in ["projects", "sources", "places", "pages", "sister_links"]:
             data[collection] = [r for r in data[collection] if r.get("publish", "Yes") == "Yes"]
         mode = "Source snapshot"
     data["config"] = {k: safe_url(v) if v else "" for k, v in config.items() if k.endswith("_url")}
     data["meta"] = {"mode": mode, "built_at": datetime.now(timezone.utc).isoformat(),
-                    "source_date": "2026-10-31", "run_url": ""}
+                    "source_date": max((r['checked_on'] for r in data['sources'] + data['sister_links']), default="2026-10-31"), "run_url": ""}
     if os.environ.get("GITHUB_RUN_ID"):
         data["meta"]["run_url"] = f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
     return validate(data)

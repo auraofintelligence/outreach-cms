@@ -20,7 +20,7 @@ def check(row):
 if __name__=='__main__':
     data=load_public()
     lines=['# Public source link review','','Link availability does not confirm participation, source accuracy or endorsement.','','| Source | Result | HTTP | Link |','| --- | --- | --- | --- |']
-    with ThreadPoolExecutor(max_workers=4) as pool:lines.extend(pool.map(check,data['sources']+data['projects']))
+    with ThreadPoolExecutor(max_workers=4) as pool:lines.extend(pool.map(check,data['sources']+data['projects']+list({r['url']:r for link in data.get('sister_links',[]) for r in [dict(name=link['queensland_place']+' – '+link['partner_place']+' evidence',url=link['source_url']),dict(name=link['queensland_place']+' contact',url=link['contact_url'])]}.values())))
     text='\n'.join(lines)+'\n'
     print(text)
     if os.environ.get('GITHUB_STEP_SUMMARY'):

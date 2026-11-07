@@ -17,12 +17,13 @@ ICONS = {
  "arrow": '<path d="M4 12h16M14 6l6 6-6 6"/>',
  "external": '<path d="M13 3h8v8M21 3 10 14M10 3H3v18h18v-7"/>',
 }
-NAV = [("index.html", "Overview", "home"), ("routes.html", "Find routes", "route"), ("places.html", "Places", "place"), ("projects.html", "Connected work", "work"), ("invite.html", "Prepare invitation", "write"), ("playbook.html", "How it works", "book"), ("workspace.html", "Workspace", "settings")]
-THEMES = {"law":"Law and rights", "resilience":"Disaster resilience", "technology":"Sovereign data", "cooperation":"Cooperation", "culture":"Culture and knowledge", "civic":"Civic participation", "community":"Community networks", "education":"Education", "livelihoods":"Livelihoods"}
+NAV = [("index.html", "Overview", "home"), ("routes.html", "Find routes", "route"), ("places.html", "Places", "place"), ("sister-cities.html", "Queensland sister cities", "place"), ("projects.html", "Connected work", "work"), ("invite.html", "Prepare invitation", "write"), ("playbook.html", "How it works", "book"), ("workspace.html", "Workspace", "settings")]
+THEMES = {"law":"Law and rights", "resilience":"Disaster resilience", "technology":"Technology and data", "cooperation":"Cooperation", "culture":"Culture and knowledge", "civic":"Civic participation", "community":"Community networks", "education":"Education", "livelihoods":"Livelihoods"}
 LEADS = {
  "index": ("Find a route into every place.", "A contact workbench for GAJRA Earth, P4A and the Web3 Sensorium. Explore existing networks, connect useful work to local needs and prepare a relevant introduction."),
  "routes": ("Start with an existing connection.", "Find public directories and organisations that can open a conversation. Check the local organisation and choose the appropriate contact route."),
  "places": ("Every place has its own context.", "Explore the country and territory reference list. Record real connections as they develop, while making room for communities that cross borders."),
+ "sister-cities": ("Local connections. International introductions.", "Explore Queensland council and state relationships, then ask the responsible team about a relevant introduction. Formal sister links, friendship agreements and other partnerships retain their own labels."),
  "projects": ("Useful work gives an invitation substance.", "Approach people through a subject that matters locally. These connected projects offer several ways to begin."),
  "invite": ("Prepare a relevant introduction.", "Choose the place, project and request. Make the wording your own, then decide how to share it."),
  "playbook": ("Make contact. Keep the next step clear.", "A repeatable way to find appropriate people, make a useful approach and turn replies into direct relationships."),
@@ -35,13 +36,13 @@ def tag(text, cls=""): return f'<span class="tag {cls}">{e(text)}</span>'
 def external(url, label, cls=""): return f'<a class="{cls}" href="{e(url)}" target="_blank" rel="noopener noreferrer">{e(label)}{icon("external")}</a>'
 
 def source_card(row):
-    return f'''<article class="source-card" data-source data-theme="{e(row['theme'])}" data-scope="{e(row['scope'])}" data-search="{e(' '.join(str(v) for v in row.values()).lower())}">
+    return f'''<article class="source-card" data-source data-projects="{e(row.get('project_ids', ''))}" data-theme="{e(row['theme'])}" data-scope="{e(row['scope'])}" data-search="{e(' '.join(str(v) for v in row.values()).lower())}">
       <div class="source-top">{tag(THEMES[row['theme']])}<span class="scope">{e(row['scope'])}</span></div>
       <h3>{e(row['name'])}</h3><p>{e(row['summary'])}</p><details><summary>How to make contact</summary><p>{e(row['contact_route'])}</p></details>
       <div class="source-bottom"><span>{e(row['status'])}<small>{e(row['checked_on'])}</small></span>{external(row['url'],'Open source','text-link')}</div></article>'''
 
 def project_card(row):
-    return f'''<article class="project-card"><span class="project-symbol">{icon({'law':'book','resilience':'route','technology':'settings','cooperation':'place'}.get(row['theme'],'work'))}</span>{tag(THEMES[row['theme']])}<h3>{e(row['title'])}</h3><p>{e(row['summary'])}</p><div class="project-links">{external(row['url'],'Explore project','text-link')}<a href="invite.html?project={e(row['id'])}">Prepare invitation {icon('arrow')}</a></div></article>'''
+    return f'''<article class="project-card"><span class="project-symbol">{icon({'law':'book','resilience':'route','technology':'settings','cooperation':'place'}.get(row['theme'],'work'))}</span>{tag(THEMES[row['theme']])}<h3>{e(row['title'])}</h3><p>{e(row['summary'])}</p><div class="project-links">{external(row['url'],'Explore project','text-link')}<a class="text-link" href="routes.html?project={e(row['id'])}">Find outreach bodies {icon("arrow")}</a><a href="invite.html?project={e(row['id'])}">Prepare invitation {icon('arrow')}</a></div></article>'''
 
 def overview(data):
     count = len(data['places'])
@@ -55,7 +56,24 @@ def overview(data):
 
 def routes(data):
     options=''.join(f'<option value="{k}">{v}</option>' for k,v in THEMES.items())
-    return f'''<div class="filter-bar"><label class="search-field"><span>Search sources</span><input id="source-search" type="search" placeholder="Name, interest or type of work"></label><label><span>Interest</span><select id="theme-filter"><option value="">All interests</option>{options}</select></label><label><span>Scope</span><select id="scope-filter"><option value="">All scopes</option><option>International</option><option>Asia</option><option>Africa</option></select></label><button class="clear-button" id="reset-sources">Reset filters</button></div><div class="results-line"><p id="source-count" role="status">{len(data['sources'])} routes to investigate</p><span>Source availability is separate from local participation.</span></div><div class="source-grid" id="source-results">{''.join(source_card(s) for s in data['sources'])}</div><p id="source-empty" class="empty-state" hidden>No matching routes. Try a broader interest or scope.</p><aside class="wide-note"><div><h3>Choose the right request.</h3><p>Ask for an introduction, appropriate circulation, a conversation or a defined collaboration. A directory is the beginning of a check, rather than a list of confirmed contacts.</p></div><a class="text-link" href="invite.html">Prepare an approach {icon('arrow')}</a></aside>'''
+    scopes=''.join(f'<option>{e(x)}</option>' for x in sorted({r['scope'] for r in data['sources']}))
+    projects=''.join(f'<option value="{e(p["id"])}">{e(p["title"])}</option>' for p in data['projects'])
+    return f'''<div class="filter-bar route-filters"><label class="search-field"><span>Search sources</span><input id="source-search" type="search" placeholder="Name, interest or type of work"></label><label><span>Connected project</span><select id="project-filter"><option value="">All projects</option>{projects}</select></label><label><span>Interest</span><select id="theme-filter"><option value="">All interests</option>{options}</select></label><label><span>Scope</span><select id="scope-filter"><option value="">All scopes</option>{scopes}</select></label><button class="clear-button" id="reset-sources">Reset filters</button></div><div class="results-line"><p id="source-count" role="status">{len(data['sources'])} routes to investigate</p><span>Project matches are suggested approaches, subject to each body's interests.</span></div><div class="source-grid" id="source-results">{''.join(source_card(s) for s in sorted(data['sources'],key=lambda r:r['checked_on'],reverse=True))}</div><p id="source-empty" class="empty-state" hidden>No matching routes. Try a broader project, interest or scope.</p><aside class="wide-note"><div><h3>Choose the right request.</h3><p>Ask for an introduction, appropriate circulation, a conversation or a defined collaboration. Check each body's current remit and any fees. A public route does not establish local participation or a partnership.</p></div><a class="text-link" href="invite.html">Prepare an approach {icon('arrow')}</a></aside>'''
+
+def sister_row(row):
+    notes=f'<p class="relationship-note">{e(row["notes"])}</p>' if row.get('notes') else ''
+    return f'''<article class="relationship-row" data-sister data-place="{e(row['queensland_place'])}" data-level="{e(row['level'])}" data-relationship="{e(row['relationship'])}" data-status="{e(row['status'])}" data-search="{e(' '.join(str(v) for v in row.values()).lower())}"><div><h3>{e(row['partner_place'])}</h3><p class="relationship-country">{e(row['country'])}</p></div><div>{tag(row['relationship'])}<p class="relationship-date">{('Agreement year: '+e(row['year'])) if row['year'] else 'Signing year not verified'} · {e(row['status'])}</p></div>{notes}<div class="relationship-source">{external(row['source_url'],'Official evidence','text-link')}<span>Checked {e(row['checked_on'])}</span></div></article>'''
+
+def sister_cities(data):
+    links=data.get('sister_links', [])
+    places=list(dict.fromkeys(r['queensland_place'] for r in links))
+    def options(values): return ''.join(f'<option>{e(x)}</option>' for x in values)
+    groups=[]
+    for place in places:
+        rows=[r for r in links if r['queensland_place']==place]
+        first=rows[0]
+        groups.append(f'''<section class="sister-group" data-sister-group><header><div><p class="eyebrow">{'STATE RELATIONSHIPS' if first['level']=='State' else 'COUNCIL RELATIONSHIPS'}</p><h2>{e(place)}</h2></div>{external(first['contact_url'],'Contact the responsible team','text-link')}</header><p class="sister-contact">{e(first['contact_route'])}</p><div class="relationship-list">{''.join(sister_row(r) for r in rows)}</div></section>''')
+    return f'''<aside class="wide-note sister-intro"><span>{icon('route')}</span><div><h2>An existing bridge to start from.</h2><p>Choose a Queensland place, then ask its council or state team whether an appropriate counterpart, local association or community group could receive an introduction. Mention a specific project and a small first request.</p><p>These are documented relationships, not confirmed resident contacts. “Listed by source” records the official evidence available when checked; it does not confirm a current exchange programme. Records needing confirmation remain labelled.</p></div></aside><div class="filter-bar sister-filters"><label class="search-field"><span>Search international links</span><input id="sister-search" type="search" placeholder="Partner, country or agreement"></label><label><span>Queensland place</span><select id="sister-place"><option value="">All places</option>{options(places)}</select></label><label><span>Level</span><select id="sister-level"><option value="">City and state</option><option>City</option><option>State</option></select></label><label><span>Relationship</span><select id="sister-type"><option value="">All relationships</option>{options(sorted({r['relationship'] for r in links}))}</select></label><label><span>Evidence</span><select id="sister-status"><option value="">All evidence</option>{options(sorted({r['status'] for r in links}))}</select></label><button id="reset-sisters" class="clear-button">Reset filters</button></div><div class="results-line"><p id="sister-count" role="status">{len(links)} documented international links across {len(places)} Queensland places</p><span>Source and contact links lead to official council or state pages.</span></div><div class="sister-groups">{''.join(groups)}</div><p id="sister-empty" class="empty-state" hidden>No links match these filters. Try another place or relationship.</p><aside class="wide-note"><div><h3>Make the request locally specific.</h3><p>For example: could the sister-city team suggest a community, library, tourism, technology or resilience organisation interested in a short English-language conversation? Let each organisation decide whether to introduce people.</p></div><a href="projects.html" class="text-link">Choose a project {icon('arrow')}</a></aside>'''
 
 def places(data):
     rows=''.join(f'''<tr data-place data-region="{e(r['region'])}" data-search="{e((r['name']+' '+r['code']+' '+r['region']).lower())}"><td><button class="place-button" data-place-code="{e(r['code'])}"><span class="place-code">{e(r['code'])}</span>{e(r['name'])}</button></td><td>{e(r['region'])}</td><td>{tag(r['stage'],'muted')}</td><td>{r['resident_contacts']}</td><td>{r['communities']}</td><td><a class="text-link" href="invite.html?place={e(r['code'])}" aria-label="Prepare invitation for {e(r['name'])}">{icon('arrow')}</a></td></tr>''' for r in data['places'])
@@ -99,7 +117,7 @@ def projects(data):
 
 def simple_page(key, data):
     if key=='index': return overview(data)
-    content={'routes':routes,'places':places,'projects':projects,'invite':invite,'playbook':playbook,'workspace':workspace}[key](data)
+    content={'routes':routes,'sister-cities':sister_cities,'places':places,'projects':projects,'invite':invite,'playbook':playbook,'workspace':workspace}[key](data)
     override=next((r for r in data.get('pages',[]) if r['id']==key),None)
     title,lead=(override['heading'],override['body']) if override else LEADS[key]
     return f'<header class="page-heading"><p class="eyebrow">WORLDWIDE CONTACT SYSTEM</p><h1>{e(title)}</h1><p>{e(lead)}</p></header>'+content
